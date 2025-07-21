@@ -1,0 +1,1001 @@
+Order ID,Customer ID,Gender,Age,Product ID,Product Category,Quantity,Price per Unit,Order Date,Payment Method,City,Rating
+O1000,C59,Other,49,P114,Toys,2,1718.78,2025-04-23,Credit Card,Quetta,3.4
+O1001,C178,Female,40,P103,Toys,1,4091.59,2025-05-08,Wallet,Quetta,3.6
+O1002,C4,Male,48,P129,Beauty,4,1830.5,2024-08-20,UPI,Multan,
+O1003,C36,Other,57,P126,Sports,1,2341.81,2024-07-19,Credit Card,Karachi,4.0
+O1004,C228,Other,51,P105,Beauty,1,2421.79,2024-07-18,Wallet,Rawalpindi,3.6
+O1005,C1,Male,29,P161,Toys,2,4431.55,2024-11-03,Wallet,Karachi,2.8
+O1006,C143,Female,22,P176,Sports,4,2678.99,2025-05-14,Credit Card,Lahore,1.7
+O1007,C28,Other,31,P189,Electronics,1,3877.83,2025-03-20,Credit Card,Islamabad,4.1
+O1008,C203,Female,31,P117,Fashion,2,1237.56,2025-03-24,Debit Card,Islamabad,3.1
+O1009,C275,Female,42,P190,Sports,2,2448.92,2024-12-12,Debit Card,Quetta,5.0
+O1010,C35,Other,44,P101,Sports,3,2426.53,2025-03-21,Cash on Delivery,Rawalpindi,1.2
+O1011,C254,Female,34,P188,Toys,4,1255.89,2024-09-05,Credit Card,Karachi,
+O1012,C75,Female,21,P156,Sports,5,1450.29,2024-11-12,Debit Card,Lahore,2.1
+O1013,C81,Female,52,P144,Sports,5,1610.27,2025-05-02,Credit Card,Karachi,4.3
+O1014,C80,Other,32,P103,Toys,4,4451.45,2025-06-15,Wallet,Peshawar,1.3
+O1015,C160,Male,37,P138,Beauty,1,3068.26,2025-07-06,UPI,Karachi,1.9
+O1016,C247,Other,22,P106,Toys,5,4219.82,2025-04-22,Debit Card,Rawalpindi,4.6
+O1017,C279,Other,40,P185,Beauty,2,4306.38,2025-04-26,Debit Card,Islamabad,
+O1018,C104,Female,56,P185,Books,3,3661.51,2025-07-04,Credit Card,Islamabad,
+O1019,C46,Female,52,P128,Sports,3,1570.53,2025-03-14,UPI,Lahore,5.0
+O1020,C42,Female,22,P125,Toys,2,3111.74,2025-04-18,Credit Card,Quetta,3.1
+O1021,C105,Female,37,P171,Fashion,2,1681.1,2024-12-17,Debit Card,Lahore,
+O1022,C294,Other,42,P120,Fashion,1,2398.56,2024-10-21,Cash on Delivery,Karachi,1.8
+O1023,C98,Female,42,P115,Toys,3,775.12,2025-06-04,Debit Card,Quetta,
+O1024,C57,Female,51,P179,Sports,1,2898.99,2024-11-01,Debit Card,Islamabad,2.1
+O1025,C157,Female,27,P148,Sports,2,2570.72,2024-11-18,Credit Card,Lahore,3.2
+O1026,C237,Male,25,P165,Electronics,2,4363.11,2024-12-14,UPI,Lahore,4.2
+O1027,C136,Other,59,P133,Beauty,4,1352.54,2025-05-22,UPI,Multan,
+O1028,C161,Other,36,P199,Toys,1,2827.54,2025-01-19,UPI,Islamabad,2.5
+O1029,C90,Male,25,P116,Home,1,4668.89,2025-01-21,Credit Card,Lahore,2.6
+O1030,C117,Other,34,P127,Fashion,3,4490.57,2024-10-24,Credit Card,Quetta,
+O1031,C169,Other,29,P117,Home,3,704.81,2025-01-17,Credit Card,Peshawar,4.7
+O1032,C282,Female,56,P172,Books,5,3802.45,2024-11-04,Cash on Delivery,Multan,4.2
+O1033,C50,Female,46,P168,Electronics,1,1149.33,2025-01-22,Wallet,Peshawar,
+O1034,C172,Other,42,P116,Beauty,5,2084.37,2024-10-22,Cash on Delivery,Lahore,
+O1035,C147,Other,42,P180,Sports,2,4274.9,2024-12-30,Credit Card,Lahore,4.5
+O1036,C164,Female,45,P198,Electronics,4,2801.02,2024-10-05,Debit Card,Quetta,
+O1037,C103,Female,43,P123,Electronics,1,4433.12,2024-09-20,Cash on Delivery,Rawalpindi,3.0
+O1038,C175,Other,27,P127,Fashion,3,2184.94,2025-06-18,Cash on Delivery,Lahore,2.2
+O1039,C151,Male,60,P146,Toys,3,3084.34,2025-05-17,UPI,Multan,
+O1040,C217,Other,60,P178,Fashion,5,1259.17,2024-08-14,UPI,Multan,4.4
+O1041,C94,Female,41,P113,Sports,3,971.48,2024-08-09,Cash on Delivery,Quetta,4.8
+O1042,C174,Other,31,P115,Sports,5,4332.3,2024-09-27,UPI,Peshawar,2.0
+O1043,C259,Female,48,P145,Fashion,1,4959.46,2024-10-22,Wallet,Multan,3.5
+O1044,C160,Male,24,P124,Home,4,3220.31,2025-07-08,UPI,Lahore,1.2
+O1045,C30,Male,46,P199,Electronics,2,1583.37,2025-03-12,UPI,Quetta,
+O1046,C130,Other,19,P196,Toys,4,4025.8,2025-04-12,Debit Card,Multan,2.0
+O1047,C5,Other,22,P100,Sports,5,2056.5,2025-01-14,UPI,Karachi,
+O1048,C191,Male,51,P144,Home,5,2815.54,2025-05-31,UPI,Karachi,3.3
+O1049,C92,Other,58,P110,Fashion,4,2279.29,2025-03-02,Cash on Delivery,Peshawar,
+O1050,C268,Male,47,P181,Books,4,2662.59,2025-05-22,Wallet,Lahore,3.1
+O1051,C299,Other,32,P105,Fashion,3,2139.6,2024-08-09,Debit Card,Islamabad,
+O1052,C241,Female,34,P165,Home,1,1410.35,2024-10-13,Wallet,Quetta,4.1
+O1053,C119,Other,21,P116,Fashion,5,2758.85,2024-09-10,UPI,Karachi,
+O1054,C37,Male,52,P142,Books,3,4978.1,2025-06-07,Wallet,Karachi,3.8
+O1055,C73,Male,27,P187,Sports,2,2670.29,2024-07-23,Debit Card,Rawalpindi,4.4
+O1056,C37,Other,42,P106,Beauty,3,3992.17,2025-04-24,Debit Card,Karachi,
+O1057,C67,Male,34,P108,Home,3,1281.26,2024-09-18,UPI,Karachi,
+O1058,C171,Female,49,P184,Home,2,2311.88,2024-11-29,Credit Card,Karachi,4.4
+O1059,C92,Other,54,P161,Home,3,3059.47,2024-08-17,UPI,Lahore,1.9
+O1060,C169,Male,55,P139,Sports,4,734.15,2025-04-13,Wallet,Rawalpindi,3.7
+O1061,C28,Female,29,P191,Books,3,3533.51,2025-06-18,Cash on Delivery,Multan,1.5
+O1062,C80,Male,51,P149,Books,5,1984.06,2025-06-06,Credit Card,Multan,4.3
+O1063,C46,Male,39,P190,Sports,3,3908.59,2025-06-08,UPI,Peshawar,2.2
+O1064,C142,Male,36,P186,Fashion,5,4910.85,2025-05-10,UPI,Multan,1.1
+O1065,C141,Male,49,P119,Books,3,1888.5,2025-05-19,Credit Card,Lahore,3.7
+O1066,C12,Female,22,P165,Toys,1,1422.44,2025-03-30,Debit Card,Rawalpindi,4.5
+O1067,C225,Female,49,P140,Home,5,4345.55,2024-09-24,Wallet,Islamabad,1.3
+O1068,C31,Female,21,P179,Toys,1,2203.83,2025-03-12,Credit Card,Peshawar,3.1
+O1069,C98,Female,60,P146,Fashion,1,4547.93,2025-03-22,UPI,Multan,2.8
+O1070,C207,Male,52,P164,Toys,1,690.37,2025-06-05,Cash on Delivery,Rawalpindi,
+O1071,C184,Other,38,P124,Books,4,3801.13,2024-11-10,Debit Card,Rawalpindi,4.8
+O1072,C64,Other,58,P149,Home,5,733.86,2024-07-20,Cash on Delivery,Peshawar,
+O1073,C201,Male,26,P159,Books,5,1115.35,2024-10-08,Debit Card,Rawalpindi,3.3
+O1074,C183,Other,24,P132,Books,3,3153.4,2025-04-29,UPI,Karachi,2.2
+O1075,C72,Female,52,P185,Home,4,3078.94,2024-11-08,Debit Card,Karachi,4.2
+O1076,C73,Female,27,P174,Beauty,4,4206.83,2025-02-27,UPI,Karachi,1.1
+O1077,C105,Female,52,P119,Home,4,4985.17,2024-09-24,Wallet,Islamabad,3.5
+O1078,C263,Other,37,P158,Home,5,1985.23,2025-06-05,Credit Card,Karachi,3.8
+O1079,C163,Female,51,P187,Books,5,3562.4,2024-10-05,Debit Card,Multan,3.2
+O1080,C131,Other,30,P194,Electronics,2,4749.88,2025-04-12,UPI,Quetta,3.6
+O1081,C124,Female,24,P112,Fashion,4,4790.02,2025-04-02,Debit Card,Multan,
+O1082,C29,Male,30,P168,Toys,3,3179.1,2024-09-16,Wallet,Quetta,
+O1083,C183,Male,44,P169,Sports,3,2884.37,2025-07-07,Cash on Delivery,Islamabad,
+O1084,C198,Other,49,P187,Toys,5,2631.25,2024-10-22,Debit Card,Rawalpindi,1.6
+O1085,C209,Female,35,P161,Beauty,5,2928.62,2024-08-18,UPI,Lahore,
+O1086,C158,Other,58,P154,Toys,2,4344.4,2024-11-22,Wallet,Lahore,4.2
+O1087,C130,Female,50,P155,Beauty,5,3334.11,2024-10-23,Cash on Delivery,Lahore,2.6
+O1088,C216,Male,33,P190,Books,4,4643.39,2025-05-18,Wallet,Karachi,4.2
+O1089,C29,Female,43,P181,Sports,5,3427.45,2024-08-10,UPI,Islamabad,
+O1090,C86,Other,34,P144,Toys,2,3513.99,2025-03-05,Debit Card,Lahore,
+O1091,C3,Female,19,P101,Beauty,3,2014.25,2024-08-30,Debit Card,Rawalpindi,1.8
+O1092,C273,Female,47,P151,Books,1,2563.97,2025-05-25,UPI,Rawalpindi,
+O1093,C16,Other,44,P104,Toys,4,3833.03,2025-02-27,UPI,Rawalpindi,3.9
+O1094,C116,Female,44,P118,Beauty,1,2557.09,2025-03-06,Wallet,Rawalpindi,4.2
+O1095,C201,Male,58,P183,Books,2,1819.25,2024-09-14,UPI,Karachi,3.1
+O1096,C34,Female,48,P149,Books,5,2728.48,2024-07-28,Wallet,Quetta,
+O1097,C18,Other,38,P132,Sports,4,2195.07,2025-06-12,Cash on Delivery,Peshawar,1.9
+O1098,C209,Other,35,P195,Books,2,2516.18,2025-07-17,Cash on Delivery,Islamabad,1.8
+O1099,C144,Other,18,P133,Electronics,2,673.72,2025-05-03,UPI,Peshawar,
+O1100,C190,Other,39,P143,Beauty,1,3173.14,2024-11-24,UPI,Quetta,
+O1101,C125,Other,19,P120,Sports,3,2883.9,2025-04-10,UPI,Rawalpindi,4.5
+O1102,C261,Male,18,P191,Sports,1,2788.84,2024-11-29,Debit Card,Multan,3.2
+O1103,C5,Other,18,P164,Toys,2,1394.37,2024-09-25,Debit Card,Karachi,
+O1104,C157,Male,30,P191,Electronics,4,3991.95,2024-12-05,Wallet,Lahore,2.0
+O1105,C200,Female,59,P150,Electronics,2,1354.66,2025-01-16,Cash on Delivery,Quetta,
+O1106,C182,Other,24,P131,Beauty,4,4647.32,2024-11-02,Credit Card,Multan,2.2
+O1107,C94,Female,58,P184,Beauty,1,3808.54,2025-06-27,Credit Card,Karachi,1.7
+O1108,C171,Male,24,P197,Home,4,3713.81,2024-11-06,Cash on Delivery,Karachi,
+O1109,C120,Male,29,P112,Books,3,3782.53,2025-01-03,UPI,Lahore,2.3
+O1110,C26,Female,29,P197,Beauty,3,811.64,2025-03-07,Cash on Delivery,Peshawar,4.0
+O1111,C20,Other,36,P133,Fashion,3,2072.76,2024-11-21,Debit Card,Peshawar,1.7
+O1112,C237,Other,52,P153,Toys,1,4495.79,2025-05-17,UPI,Quetta,4.1
+O1113,C29,Male,38,P134,Beauty,1,3486.53,2024-10-29,Cash on Delivery,Karachi,
+O1114,C7,Male,42,P119,Sports,5,1227.5,2024-07-20,Wallet,Karachi,1.2
+O1115,C27,Female,23,P154,Toys,3,1408.43,2024-10-02,Debit Card,Rawalpindi,
+O1116,C216,Female,28,P180,Electronics,4,1073.08,2024-10-19,Debit Card,Multan,
+O1117,C196,Other,35,P110,Electronics,4,3867.8,2024-12-13,Wallet,Multan,3.2
+O1118,C57,Other,21,P108,Sports,1,801.9,2025-04-03,Cash on Delivery,Quetta,2.5
+O1119,C40,Other,56,P151,Electronics,4,1659.07,2024-09-12,Debit Card,Islamabad,4.5
+O1120,C53,Other,57,P145,Books,2,2120.12,2025-03-03,Wallet,Rawalpindi,3.7
+O1121,C70,Female,29,P181,Electronics,5,749.72,2025-03-07,Debit Card,Rawalpindi,4.3
+O1122,C107,Male,28,P165,Books,5,3065.57,2024-09-11,Debit Card,Multan,
+O1123,C232,Female,21,P158,Books,4,1279.74,2025-02-13,Cash on Delivery,Multan,1.8
+O1124,C37,Other,33,P121,Books,5,4950.15,2024-09-16,UPI,Lahore,1.8
+O1125,C31,Other,45,P190,Books,3,2902.61,2025-03-17,Cash on Delivery,Islamabad,2.6
+O1126,C133,Male,21,P157,Sports,1,754.37,2024-09-13,Cash on Delivery,Quetta,1.7
+O1127,C235,Other,20,P103,Home,5,2339.55,2024-07-24,UPI,Peshawar,4.0
+O1128,C75,Other,27,P137,Books,2,4454.29,2024-11-26,Credit Card,Peshawar,
+O1129,C202,Other,40,P177,Fashion,4,2161.85,2025-04-21,Credit Card,Karachi,3.0
+O1130,C114,Female,19,P158,Home,2,1907.19,2025-03-15,Wallet,Islamabad,
+O1131,C59,Male,31,P124,Beauty,1,4906.46,2025-04-26,Cash on Delivery,Karachi,
+O1132,C175,Other,28,P121,Electronics,2,1001.61,2025-07-06,UPI,Multan,
+O1133,C270,Male,34,P105,Electronics,2,766.79,2025-05-26,Cash on Delivery,Quetta,2.0
+O1134,C263,Other,24,P196,Beauty,4,4667.28,2024-08-04,Cash on Delivery,Peshawar,
+O1135,C169,Male,52,P144,Toys,3,3116.36,2024-11-10,Debit Card,Islamabad,4.5
+O1136,C152,Female,51,P164,Toys,3,4293.52,2024-09-07,Cash on Delivery,Islamabad,2.3
+O1137,C243,Male,51,P113,Sports,1,2195.63,2025-03-14,Cash on Delivery,Multan,2.0
+O1138,C169,Other,21,P123,Toys,2,3589.8,2024-09-01,Cash on Delivery,Rawalpindi,
+O1139,C224,Male,59,P133,Home,1,4884.12,2025-02-27,Wallet,Rawalpindi,4.2
+O1140,C123,Other,25,P126,Books,1,1384.81,2024-10-28,Credit Card,Islamabad,
+O1141,C15,Other,30,P165,Toys,5,995.27,2025-07-01,Credit Card,Karachi,
+O1142,C36,Male,33,P152,Electronics,4,3121.22,2025-02-16,UPI,Multan,1.7
+O1143,C148,Female,48,P148,Books,2,2005.56,2024-09-03,Debit Card,Quetta,4.3
+O1144,C236,Male,47,P167,Electronics,1,4598.8,2024-11-09,Debit Card,Peshawar,3.1
+O1145,C161,Male,36,P149,Toys,4,4268.07,2025-01-30,Debit Card,Rawalpindi,2.4
+O1146,C91,Other,57,P106,Books,5,1619.41,2024-10-12,Debit Card,Quetta,2.1
+O1147,C110,Other,43,P154,Beauty,1,2164.13,2025-04-12,Wallet,Peshawar,3.9
+O1148,C248,Male,48,P192,Beauty,5,4935.2,2024-12-27,Wallet,Quetta,4.5
+O1149,C293,Female,49,P186,Fashion,4,2116.99,2025-02-19,Debit Card,Islamabad,4.1
+O1150,C179,Male,22,P180,Beauty,3,4832.72,2024-09-14,UPI,Islamabad,4.2
+O1151,C22,Female,49,P138,Sports,2,4869.01,2025-05-25,UPI,Peshawar,
+O1152,C39,Other,45,P149,Fashion,2,1637.35,2025-01-07,Cash on Delivery,Karachi,1.0
+O1153,C68,Female,54,P145,Electronics,3,511.28,2025-04-21,Cash on Delivery,Quetta,
+O1154,C237,Female,48,P145,Toys,3,663.46,2024-08-24,Credit Card,Lahore,1.3
+O1155,C213,Other,23,P162,Sports,4,2859.89,2025-02-15,UPI,Rawalpindi,1.6
+O1156,C163,Male,48,P150,Electronics,2,1971.63,2025-06-26,Credit Card,Multan,
+O1157,C289,Female,39,P112,Home,3,2496.41,2025-03-07,Cash on Delivery,Islamabad,1.5
+O1158,C117,Other,34,P141,Beauty,5,2943.33,2025-05-09,UPI,Rawalpindi,1.2
+O1159,C175,Other,44,P200,Fashion,1,3461.27,2024-12-12,Debit Card,Rawalpindi,3.8
+O1160,C58,Male,50,P145,Beauty,2,797.76,2025-01-11,Wallet,Lahore,3.0
+O1161,C192,Female,36,P110,Books,5,2739.75,2025-04-09,Credit Card,Lahore,2.5
+O1162,C77,Female,51,P184,Sports,3,1193.8,2024-07-22,UPI,Karachi,1.5
+O1163,C286,Other,42,P140,Electronics,1,3330.83,2024-11-30,Cash on Delivery,Lahore,2.1
+O1164,C148,Other,45,P122,Beauty,2,1953.08,2024-08-15,Credit Card,Lahore,1.7
+O1165,C260,Female,50,P131,Toys,1,4496.33,2025-02-01,Credit Card,Quetta,
+O1166,C239,Female,57,P135,Beauty,5,3268.8,2024-11-26,Cash on Delivery,Karachi,4.9
+O1167,C171,Male,43,P186,Home,2,4895.3,2024-11-01,Wallet,Islamabad,
+O1168,C133,Other,28,P196,Books,3,4353.81,2025-01-12,Wallet,Rawalpindi,4.9
+O1169,C288,Male,21,P184,Toys,5,1455.4,2024-10-09,Credit Card,Islamabad,1.0
+O1170,C186,Other,58,P156,Electronics,4,914.11,2025-02-25,Wallet,Lahore,3.6
+O1171,C48,Other,31,P121,Electronics,1,3488.26,2025-01-09,Wallet,Peshawar,3.1
+O1172,C154,Other,59,P121,Fashion,3,4762.92,2024-08-13,UPI,Karachi,2.3
+O1173,C50,Male,36,P118,Books,3,4856.17,2024-08-17,Cash on Delivery,Karachi,4.9
+O1174,C103,Other,25,P114,Electronics,4,4097.85,2025-05-14,Debit Card,Lahore,
+O1175,C185,Female,27,P111,Fashion,1,1798.67,2025-01-22,UPI,Islamabad,1.6
+O1176,C146,Male,21,P101,Electronics,3,2756.86,2025-02-16,UPI,Karachi,1.5
+O1177,C54,Other,31,P184,Electronics,1,4065.97,2024-08-11,Debit Card,Peshawar,
+O1178,C41,Female,26,P200,Electronics,4,2059.68,2025-04-20,Credit Card,Multan,1.9
+O1179,C88,Other,25,P179,Sports,3,3443.91,2024-07-23,Credit Card,Rawalpindi,
+O1180,C78,Other,47,P146,Sports,5,655.27,2024-08-10,Debit Card,Peshawar,2.0
+O1181,C126,Other,30,P112,Fashion,5,4755.39,2024-08-19,Credit Card,Multan,2.6
+O1182,C15,Female,58,P195,Sports,1,3332.87,2025-04-14,Cash on Delivery,Lahore,1.1
+O1183,C69,Female,23,P195,Fashion,2,4138.8,2024-09-29,Wallet,Rawalpindi,2.2
+O1184,C161,Male,40,P198,Beauty,5,1615.41,2025-02-08,Credit Card,Rawalpindi,1.4
+O1185,C298,Female,40,P194,Home,1,2270.16,2025-07-06,Credit Card,Multan,1.1
+O1186,C194,Female,30,P164,Books,4,4228.53,2024-09-26,Cash on Delivery,Lahore,1.5
+O1187,C196,Male,39,P167,Beauty,5,704.22,2024-10-26,Wallet,Multan,
+O1188,C251,Male,39,P154,Sports,1,1749.46,2025-05-12,Credit Card,Islamabad,1.6
+O1189,C176,Male,24,P124,Sports,4,1193.26,2024-10-20,UPI,Peshawar,
+O1190,C291,Female,32,P151,Electronics,2,3000.1,2025-05-23,Debit Card,Islamabad,5.0
+O1191,C28,Female,41,P192,Fashion,4,2512.03,2025-05-08,Wallet,Islamabad,3.5
+O1192,C210,Female,42,P169,Toys,5,2650.36,2024-12-20,Wallet,Rawalpindi,
+O1193,C165,Male,44,P165,Home,5,687.54,2024-07-30,Credit Card,Lahore,
+O1194,C248,Other,57,P140,Electronics,5,1957.52,2024-09-29,UPI,Islamabad,
+O1195,C170,Female,26,P190,Home,1,4416.38,2025-04-24,UPI,Rawalpindi,2.2
+O1196,C203,Male,23,P133,Toys,3,3356.84,2025-01-29,Credit Card,Karachi,2.4
+O1197,C125,Female,21,P158,Beauty,1,1624.37,2025-03-25,Credit Card,Peshawar,1.6
+O1198,C267,Male,34,P100,Home,5,2882.91,2025-01-31,Credit Card,Quetta,4.8
+O1199,C184,Other,48,P142,Fashion,1,3662.86,2025-04-22,Credit Card,Rawalpindi,3.8
+O1200,C256,Female,38,P155,Fashion,3,1059.51,2025-03-19,Wallet,Multan,3.1
+O1201,C212,Other,30,P117,Toys,2,2784.59,2025-04-11,Credit Card,Peshawar,
+O1202,C179,Male,25,P184,Electronics,1,3032.19,2024-09-21,UPI,Quetta,
+O1203,C14,Other,47,P141,Sports,1,3253.82,2025-03-20,Cash on Delivery,Rawalpindi,3.7
+O1204,C142,Male,41,P142,Fashion,4,4065.03,2025-01-20,UPI,Rawalpindi,2.3
+O1205,C298,Male,30,P119,Fashion,1,4842.59,2024-08-14,Cash on Delivery,Multan,
+O1206,C196,Female,32,P126,Books,2,3741.51,2025-04-08,UPI,Karachi,4.8
+O1207,C19,Male,27,P144,Beauty,1,3315.1,2025-05-24,UPI,Lahore,
+O1208,C106,Other,42,P104,Toys,3,2647.73,2025-04-10,Credit Card,Quetta,
+O1209,C297,Female,36,P115,Sports,5,925.66,2025-07-16,Wallet,Quetta,4.0
+O1210,C44,Female,25,P198,Beauty,1,1397.45,2025-05-31,Debit Card,Islamabad,2.6
+O1211,C153,Female,56,P125,Home,2,1724.59,2025-06-05,Wallet,Islamabad,4.0
+O1212,C292,Female,39,P135,Home,1,4050.75,2024-07-29,Credit Card,Multan,
+O1213,C164,Female,58,P104,Books,2,3294.97,2025-01-17,Wallet,Lahore,
+O1214,C15,Other,56,P166,Electronics,1,2118.96,2025-02-17,Wallet,Multan,2.3
+O1215,C65,Male,31,P144,Home,1,4258.19,2025-05-22,Wallet,Peshawar,4.8
+O1216,C148,Female,38,P177,Home,3,2135.12,2024-12-14,Wallet,Rawalpindi,
+O1217,C114,Male,26,P124,Home,2,2400.89,2025-04-11,Wallet,Quetta,2.0
+O1218,C57,Male,24,P172,Sports,3,3339.5,2025-01-10,Credit Card,Quetta,4.2
+O1219,C151,Other,47,P110,Fashion,4,2471.55,2024-11-10,Credit Card,Karachi,2.9
+O1220,C217,Other,46,P153,Books,1,4430.96,2025-04-03,Cash on Delivery,Lahore,
+O1221,C231,Other,36,P168,Sports,2,1586.72,2025-01-19,Wallet,Quetta,
+O1222,C57,Male,51,P179,Fashion,1,3592.29,2024-10-12,Credit Card,Quetta,4.1
+O1223,C41,Male,40,P142,Electronics,4,955.03,2024-12-28,Credit Card,Rawalpindi,3.1
+O1224,C231,Other,35,P136,Fashion,1,1048.14,2025-05-06,Cash on Delivery,Karachi,4.4
+O1225,C29,Male,52,P110,Toys,2,2102.31,2025-01-03,UPI,Rawalpindi,4.6
+O1226,C99,Male,44,P178,Fashion,4,4567.45,2025-05-05,Cash on Delivery,Lahore,
+O1227,C10,Male,49,P193,Toys,3,2660.5,2024-10-25,Wallet,Karachi,3.7
+O1228,C237,Female,21,P178,Sports,3,807.3,2024-10-13,Debit Card,Islamabad,2.0
+O1229,C238,Other,27,P163,Home,4,4645.56,2025-05-13,Cash on Delivery,Rawalpindi,
+O1230,C145,Female,30,P185,Sports,5,1546.41,2025-05-07,Wallet,Karachi,
+O1231,C155,Female,55,P130,Electronics,4,767.33,2025-01-04,Debit Card,Multan,4.6
+O1232,C112,Male,55,P147,Home,4,923.32,2025-07-06,Wallet,Karachi,4.6
+O1233,C139,Other,26,P183,Fashion,3,2964.82,2025-05-08,Cash on Delivery,Islamabad,4.0
+O1234,C214,Male,48,P188,Toys,3,2575.12,2025-03-12,Debit Card,Multan,1.9
+O1235,C147,Other,50,P114,Electronics,4,2343.48,2025-04-08,Credit Card,Rawalpindi,4.5
+O1236,C40,Male,21,P187,Home,4,3710.44,2025-03-17,Cash on Delivery,Karachi,1.5
+O1237,C139,Other,51,P151,Books,5,4914.94,2024-09-25,Debit Card,Rawalpindi,
+O1238,C248,Other,44,P146,Beauty,3,4066.51,2025-06-13,Credit Card,Quetta,1.7
+O1239,C234,Male,23,P116,Beauty,1,3819.54,2024-10-01,Wallet,Karachi,
+O1240,C113,Male,19,P191,Books,1,4032.34,2024-11-03,Credit Card,Lahore,4.3
+O1241,C129,Female,44,P199,Books,3,2920.53,2025-05-27,Debit Card,Karachi,2.3
+O1242,C234,Male,36,P116,Home,5,4456.16,2025-07-01,Credit Card,Islamabad,
+O1243,C52,Female,46,P171,Toys,2,2864.91,2025-03-25,Wallet,Peshawar,2.2
+O1244,C214,Female,34,P151,Toys,1,1409.25,2025-06-19,Debit Card,Quetta,2.6
+O1245,C213,Other,30,P132,Sports,2,3213.25,2025-06-26,Wallet,Lahore,
+O1246,C54,Male,32,P117,Home,3,3233.7,2024-08-07,Debit Card,Islamabad,2.3
+O1247,C235,Male,29,P144,Beauty,5,1795.14,2024-08-27,Credit Card,Karachi,
+O1248,C134,Female,43,P128,Sports,2,1126.03,2025-04-20,Debit Card,Quetta,3.3
+O1249,C164,Female,53,P121,Electronics,1,4648.9,2024-10-23,UPI,Islamabad,2.1
+O1250,C191,Male,26,P135,Toys,3,3214.7,2024-12-05,UPI,Karachi,2.9
+O1251,C1,Other,57,P160,Sports,5,4566.41,2024-10-08,Debit Card,Islamabad,
+O1252,C35,Other,46,P141,Fashion,5,4031.37,2024-08-09,Wallet,Quetta,
+O1253,C112,Female,21,P157,Home,3,1017.92,2024-12-24,Wallet,Lahore,2.5
+O1254,C233,Male,59,P174,Fashion,1,2773.1,2024-09-02,Cash on Delivery,Karachi,2.8
+O1255,C9,Other,54,P180,Beauty,2,530.67,2024-10-23,Cash on Delivery,Rawalpindi,
+O1256,C257,Male,27,P187,Books,1,3832.59,2024-09-23,Credit Card,Rawalpindi,2.7
+O1257,C58,Other,58,P196,Home,5,1917.8,2024-10-28,Wallet,Rawalpindi,3.1
+O1258,C162,Other,44,P116,Beauty,5,4076.29,2025-03-21,Debit Card,Peshawar,3.7
+O1259,C289,Male,58,P191,Fashion,1,3517.73,2025-01-26,Cash on Delivery,Lahore,1.1
+O1260,C106,Other,39,P133,Home,2,4769.7,2024-08-27,Cash on Delivery,Karachi,1.5
+O1261,C191,Male,41,P151,Books,1,1025.17,2025-06-09,Cash on Delivery,Lahore,
+O1262,C243,Other,27,P149,Sports,3,2407.63,2025-02-04,Cash on Delivery,Rawalpindi,2.4
+O1263,C261,Female,27,P161,Electronics,1,1012.67,2024-11-12,Cash on Delivery,Multan,2.8
+O1264,C105,Female,19,P136,Home,1,3723.51,2025-04-30,Cash on Delivery,Karachi,4.2
+O1265,C164,Female,30,P130,Books,4,3410.72,2025-06-13,UPI,Lahore,4.6
+O1266,C249,Female,32,P105,Electronics,1,1679.64,2025-04-12,UPI,Rawalpindi,4.0
+O1267,C227,Female,36,P199,Fashion,3,2789.28,2024-11-26,Debit Card,Lahore,
+O1268,C133,Other,23,P178,Fashion,4,1818.86,2024-10-30,Credit Card,Multan,2.9
+O1269,C30,Female,43,P163,Beauty,1,4287.82,2025-05-06,Debit Card,Peshawar,4.9
+O1270,C132,Male,36,P141,Sports,2,4978.94,2025-05-23,Debit Card,Peshawar,2.2
+O1271,C200,Male,27,P112,Sports,1,4421.0,2025-03-07,Credit Card,Quetta,2.9
+O1272,C14,Female,41,P169,Home,3,3823.11,2024-12-05,UPI,Quetta,
+O1273,C147,Male,20,P169,Sports,4,2814.18,2025-06-20,Cash on Delivery,Rawalpindi,
+O1274,C245,Female,58,P184,Sports,5,3514.81,2024-11-08,Credit Card,Lahore,1.1
+O1275,C51,Female,29,P131,Home,1,1874.62,2025-04-20,Wallet,Peshawar,1.6
+O1276,C21,Other,20,P148,Fashion,1,3904.31,2025-07-08,UPI,Rawalpindi,4.2
+O1277,C194,Other,56,P126,Sports,5,3335.04,2024-10-16,Cash on Delivery,Rawalpindi,3.1
+O1278,C271,Male,24,P108,Books,5,1503.92,2024-10-27,UPI,Islamabad,4.9
+O1279,C48,Female,54,P128,Fashion,1,1968.31,2025-03-30,UPI,Karachi,4.3
+O1280,C272,Other,59,P132,Home,3,652.13,2025-05-16,Cash on Delivery,Peshawar,
+O1281,C272,Female,47,P168,Books,5,4943.78,2025-06-04,Wallet,Rawalpindi,2.9
+O1282,C128,Other,36,P173,Home,2,3650.36,2024-11-22,Credit Card,Lahore,
+O1283,C249,Male,35,P194,Toys,3,4629.22,2025-03-16,Wallet,Quetta,3.5
+O1284,C188,Female,23,P171,Sports,3,3567.05,2025-03-09,Credit Card,Quetta,
+O1285,C35,Other,55,P144,Sports,1,2546.92,2024-11-04,Credit Card,Rawalpindi,4.9
+O1286,C282,Male,39,P180,Beauty,2,4805.77,2024-08-14,UPI,Islamabad,3.1
+O1287,C297,Female,38,P195,Fashion,2,2639.46,2024-08-06,Cash on Delivery,Quetta,3.1
+O1288,C261,Female,30,P200,Electronics,4,1271.1,2024-10-13,Debit Card,Lahore,2.5
+O1289,C189,Other,51,P140,Books,3,1645.57,2025-04-23,UPI,Peshawar,4.8
+O1290,C177,Other,26,P186,Books,1,941.44,2025-02-18,Wallet,Quetta,
+O1291,C97,Other,35,P169,Fashion,2,2152.03,2024-07-23,Debit Card,Karachi,1.9
+O1292,C277,Female,27,P187,Sports,3,4997.11,2025-05-13,Wallet,Quetta,4.7
+O1293,C275,Male,36,P184,Books,3,569.43,2025-06-27,Wallet,Peshawar,3.3
+O1294,C157,Male,21,P151,Toys,2,3572.8,2024-07-23,Credit Card,Islamabad,3.1
+O1295,C165,Other,35,P196,Fashion,3,1851.14,2025-02-23,Cash on Delivery,Multan,4.5
+O1296,C204,Female,28,P140,Books,3,4960.96,2025-06-29,Cash on Delivery,Rawalpindi,
+O1297,C115,Male,57,P173,Home,5,3107.8,2024-11-15,Credit Card,Islamabad,2.0
+O1298,C268,Other,58,P140,Sports,4,3697.31,2024-09-21,Wallet,Peshawar,1.9
+O1299,C253,Female,43,P183,Electronics,1,1568.81,2025-05-09,Debit Card,Multan,1.7
+O1300,C49,Other,21,P117,Beauty,1,1534.4,2025-03-15,Cash on Delivery,Rawalpindi,3.4
+O1301,C183,Female,33,P147,Beauty,5,3128.63,2025-06-13,Wallet,Lahore,
+O1302,C281,Female,50,P100,Home,5,1870.35,2024-11-27,UPI,Quetta,
+O1303,C16,Other,50,P105,Home,4,2887.89,2025-07-12,Credit Card,Lahore,
+O1304,C151,Other,41,P152,Fashion,1,4762.45,2025-06-07,Wallet,Rawalpindi,
+O1305,C202,Male,38,P140,Beauty,5,2701.5,2024-09-03,Credit Card,Karachi,1.8
+O1306,C51,Male,57,P162,Fashion,3,1023.94,2024-09-26,Cash on Delivery,Peshawar,3.6
+O1307,C26,Other,27,P117,Electronics,3,2114.65,2025-03-27,Wallet,Peshawar,3.4
+O1308,C2,Female,43,P142,Toys,4,2398.99,2025-03-21,Wallet,Karachi,
+O1309,C32,Other,32,P192,Electronics,1,4475.64,2025-01-16,UPI,Karachi,4.8
+O1310,C35,Other,49,P200,Sports,5,651.42,2025-01-26,Cash on Delivery,Karachi,3.7
+O1311,C69,Male,52,P138,Electronics,5,3943.41,2024-10-28,Debit Card,Lahore,3.2
+O1312,C50,Male,44,P144,Books,1,2232.52,2024-11-12,Wallet,Multan,
+O1313,C125,Female,46,P150,Electronics,2,3530.19,2024-12-30,Credit Card,Peshawar,4.6
+O1314,C185,Female,21,P106,Books,4,3991.85,2025-06-21,Wallet,Quetta,1.8
+O1315,C270,Female,20,P191,Home,4,1764.68,2025-02-16,Wallet,Islamabad,
+O1316,C127,Male,44,P136,Sports,2,4111.53,2025-07-03,Cash on Delivery,Rawalpindi,
+O1317,C33,Female,46,P109,Toys,3,3636.85,2024-07-20,Cash on Delivery,Islamabad,4.0
+O1318,C136,Other,24,P158,Toys,4,1714.29,2025-02-18,Cash on Delivery,Lahore,
+O1319,C189,Other,28,P173,Beauty,4,4993.97,2024-11-23,UPI,Karachi,1.1
+O1320,C271,Female,40,P107,Electronics,3,3381.45,2025-03-04,Credit Card,Rawalpindi,4.0
+O1321,C105,Other,51,P137,Sports,2,1490.6,2024-09-12,UPI,Peshawar,2.7
+O1322,C183,Female,42,P180,Books,1,3560.69,2024-12-30,UPI,Karachi,4.0
+O1323,C201,Female,32,P175,Fashion,5,3630.89,2025-06-02,UPI,Quetta,
+O1324,C237,Male,44,P182,Sports,3,1840.16,2024-12-15,Debit Card,Multan,4.2
+O1325,C206,Male,20,P126,Electronics,4,3097.69,2025-02-09,Wallet,Karachi,3.4
+O1326,C177,Other,31,P195,Sports,4,3686.35,2024-10-20,Credit Card,Quetta,3.9
+O1327,C34,Male,29,P139,Fashion,1,4374.98,2025-06-13,Wallet,Karachi,2.3
+O1328,C119,Female,53,P152,Sports,5,3776.06,2024-09-18,Wallet,Karachi,2.2
+O1329,C248,Other,55,P154,Beauty,2,4840.68,2025-01-08,UPI,Lahore,
+O1330,C2,Female,21,P171,Home,2,1344.94,2025-07-11,Cash on Delivery,Karachi,4.0
+O1331,C90,Male,24,P173,Sports,5,4931.7,2025-04-21,Debit Card,Peshawar,
+O1332,C160,Other,31,P164,Electronics,2,1066.37,2024-08-26,Wallet,Quetta,3.5
+O1333,C286,Female,21,P154,Toys,5,4751.18,2024-12-01,Cash on Delivery,Rawalpindi,2.9
+O1334,C153,Male,43,P156,Toys,5,2014.82,2024-09-09,UPI,Lahore,4.3
+O1335,C293,Other,26,P184,Books,4,4567.45,2024-12-28,UPI,Peshawar,
+O1336,C109,Female,42,P164,Beauty,3,2962.62,2025-05-21,UPI,Quetta,
+O1337,C55,Female,58,P172,Sports,4,3784.02,2025-05-23,Wallet,Rawalpindi,
+O1338,C154,Male,40,P194,Beauty,1,2580.12,2025-05-05,Credit Card,Islamabad,2.5
+O1339,C147,Other,41,P152,Home,2,1711.47,2024-10-23,Credit Card,Rawalpindi,
+O1340,C81,Female,46,P161,Fashion,2,4580.38,2025-05-27,Credit Card,Rawalpindi,
+O1341,C292,Male,35,P192,Electronics,2,4137.54,2024-09-20,Wallet,Rawalpindi,4.9
+O1342,C160,Male,55,P160,Electronics,2,1017.89,2024-09-22,Debit Card,Lahore,1.9
+O1343,C173,Other,34,P106,Books,3,3298.44,2024-11-30,Cash on Delivery,Lahore,
+O1344,C63,Other,32,P175,Toys,4,2655.76,2025-01-07,Debit Card,Multan,4.5
+O1345,C278,Other,44,P124,Electronics,1,1909.06,2025-04-29,Cash on Delivery,Peshawar,2.5
+O1346,C180,Other,30,P190,Fashion,1,3210.76,2025-05-26,Wallet,Lahore,
+O1347,C171,Other,18,P186,Beauty,1,1349.59,2024-10-30,Cash on Delivery,Peshawar,2.9
+O1348,C203,Other,34,P168,Toys,2,2041.38,2024-07-20,Cash on Delivery,Islamabad,4.6
+O1349,C152,Male,59,P154,Books,4,1128.85,2024-12-12,Cash on Delivery,Karachi,
+O1350,C290,Other,54,P110,Books,4,3430.7,2024-08-17,Credit Card,Karachi,3.9
+O1351,C286,Male,44,P121,Electronics,2,1601.56,2024-10-16,UPI,Lahore,2.6
+O1352,C276,Male,34,P138,Electronics,4,1524.31,2025-01-16,Debit Card,Quetta,4.9
+O1353,C61,Other,22,P145,Toys,5,1571.78,2025-03-14,Wallet,Islamabad,1.4
+O1354,C159,Other,44,P107,Toys,1,1786.1,2024-07-31,UPI,Islamabad,4.9
+O1355,C111,Female,59,P105,Beauty,1,4875.52,2025-06-10,Credit Card,Karachi,
+O1356,C217,Male,35,P161,Beauty,5,3643.31,2025-02-24,Wallet,Karachi,
+O1357,C19,Male,21,P148,Sports,5,4511.87,2024-12-13,Credit Card,Peshawar,1.3
+O1358,C65,Male,40,P132,Fashion,5,2524.11,2025-06-14,Debit Card,Karachi,4.9
+O1359,C33,Female,47,P130,Books,1,3577.6,2025-07-08,Credit Card,Multan,2.5
+O1360,C242,Male,54,P126,Books,1,1343.06,2025-05-20,UPI,Quetta,4.5
+O1361,C76,Male,18,P155,Home,3,602.85,2025-05-15,Wallet,Multan,1.5
+O1362,C256,Female,25,P152,Home,1,878.71,2025-03-17,Debit Card,Islamabad,3.6
+O1363,C293,Female,30,P131,Home,3,1318.79,2024-09-10,Credit Card,Peshawar,4.4
+O1364,C275,Other,58,P181,Home,1,982.87,2025-05-21,Debit Card,Multan,3.7
+O1365,C240,Male,36,P135,Home,2,3808.17,2025-01-03,Debit Card,Lahore,2.0
+O1366,C104,Male,38,P170,Fashion,4,2308.33,2025-01-19,UPI,Lahore,1.6
+O1367,C176,Male,51,P104,Electronics,2,1491.22,2025-01-30,Credit Card,Multan,
+O1368,C153,Other,48,P140,Toys,1,3509.7,2025-02-27,Cash on Delivery,Multan,2.2
+O1369,C260,Other,45,P117,Electronics,4,3356.97,2025-04-03,Wallet,Peshawar,2.8
+O1370,C84,Female,44,P181,Beauty,4,3552.97,2025-03-05,Credit Card,Peshawar,2.4
+O1371,C99,Female,50,P107,Beauty,3,3321.53,2025-05-21,UPI,Islamabad,1.5
+O1372,C292,Male,49,P102,Sports,1,2869.03,2025-05-10,Debit Card,Karachi,2.0
+O1373,C200,Female,54,P144,Home,4,4969.24,2024-12-29,UPI,Peshawar,
+O1374,C293,Male,45,P137,Books,5,1691.56,2025-04-02,Debit Card,Islamabad,3.1
+O1375,C43,Other,30,P163,Sports,3,522.72,2025-07-08,Credit Card,Multan,1.3
+O1376,C78,Male,37,P173,Beauty,4,4263.01,2025-06-14,Credit Card,Quetta,
+O1377,C128,Male,31,P165,Toys,3,1631.89,2025-04-19,Debit Card,Quetta,
+O1378,C121,Other,37,P144,Fashion,4,2499.31,2025-04-29,Wallet,Rawalpindi,4.1
+O1379,C117,Other,18,P200,Sports,3,1830.88,2025-04-13,Debit Card,Islamabad,4.6
+O1380,C99,Female,59,P179,Toys,4,4857.77,2024-07-30,Wallet,Multan,2.0
+O1381,C207,Male,20,P191,Fashion,2,4635.17,2025-02-04,Credit Card,Karachi,
+O1382,C125,Other,41,P149,Toys,4,4163.98,2025-06-28,Debit Card,Peshawar,2.4
+O1383,C286,Male,37,P112,Beauty,1,3119.85,2024-08-07,Cash on Delivery,Lahore,2.3
+O1384,C237,Female,29,P113,Electronics,3,1157.01,2025-04-16,Wallet,Karachi,
+O1385,C73,Male,31,P174,Beauty,5,4825.39,2024-09-11,Debit Card,Rawalpindi,2.6
+O1386,C69,Female,44,P126,Electronics,4,3277.01,2025-04-11,Wallet,Lahore,2.7
+O1387,C60,Male,38,P172,Books,4,4988.18,2025-04-02,Debit Card,Karachi,1.2
+O1388,C297,Female,36,P112,Fashion,1,3283.8,2024-08-03,Debit Card,Multan,3.2
+O1389,C113,Female,44,P193,Beauty,2,4631.09,2025-03-21,UPI,Islamabad,
+O1390,C24,Male,18,P128,Beauty,5,589.41,2024-10-06,Wallet,Lahore,3.4
+O1391,C205,Female,49,P100,Fashion,5,4332.49,2024-12-30,Wallet,Karachi,
+O1392,C91,Male,43,P106,Fashion,5,2365.14,2025-03-21,Debit Card,Lahore,3.0
+O1393,C199,Other,28,P100,Home,1,3268.27,2024-12-19,Wallet,Karachi,2.6
+O1394,C292,Female,47,P153,Books,2,4321.35,2025-06-07,Wallet,Islamabad,2.3
+O1395,C141,Female,21,P105,Fashion,5,550.68,2025-05-23,Credit Card,Lahore,1.9
+O1396,C32,Female,24,P114,Fashion,4,4720.36,2024-12-22,UPI,Peshawar,
+O1397,C196,Male,24,P187,Home,3,3223.41,2024-08-19,UPI,Peshawar,3.2
+O1398,C227,Female,20,P116,Books,3,2702.9,2024-12-10,Credit Card,Islamabad,
+O1399,C61,Male,59,P197,Home,3,4143.58,2025-04-24,Credit Card,Rawalpindi,
+O1400,C171,Male,38,P102,Toys,5,574.83,2024-11-29,Debit Card,Lahore,2.8
+O1401,C109,Other,38,P136,Beauty,4,1371.52,2025-04-29,Wallet,Peshawar,4.8
+O1402,C14,Female,38,P176,Beauty,5,1939.57,2025-06-10,Wallet,Lahore,1.5
+O1403,C25,Male,34,P171,Home,5,4976.87,2024-10-02,Credit Card,Quetta,4.9
+O1404,C23,Female,20,P168,Electronics,4,4276.83,2025-04-04,Cash on Delivery,Multan,2.6
+O1405,C6,Female,32,P144,Home,1,4317.3,2025-01-28,Wallet,Rawalpindi,1.1
+O1406,C112,Female,60,P188,Beauty,1,3034.68,2025-03-24,UPI,Lahore,2.3
+O1407,C290,Female,19,P181,Beauty,5,4830.15,2025-04-04,Wallet,Rawalpindi,3.4
+O1408,C165,Female,20,P104,Sports,2,4206.76,2024-10-07,UPI,Islamabad,2.3
+O1409,C83,Other,48,P186,Beauty,3,2334.81,2024-11-01,Credit Card,Lahore,1.8
+O1410,C58,Male,60,P183,Sports,5,3073.83,2025-04-08,UPI,Karachi,3.2
+O1411,C82,Other,39,P163,Books,1,4593.09,2024-12-13,UPI,Karachi,2.5
+O1412,C280,Female,23,P197,Sports,3,4634.87,2025-01-30,UPI,Lahore,3.7
+O1413,C25,Male,23,P118,Beauty,4,1529.49,2024-07-26,UPI,Lahore,2.7
+O1414,C49,Female,28,P181,Home,4,1398.65,2024-07-21,UPI,Multan,
+O1415,C72,Female,51,P138,Sports,1,1500.04,2024-09-08,Credit Card,Peshawar,2.4
+O1416,C148,Other,42,P150,Home,1,500.05,2025-07-03,Debit Card,Quetta,4.3
+O1417,C300,Male,23,P112,Toys,4,3267.93,2025-04-05,Cash on Delivery,Quetta,4.1
+O1418,C121,Female,19,P131,Toys,3,1176.58,2024-11-29,Cash on Delivery,Multan,
+O1419,C128,Other,60,P141,Beauty,1,1779.03,2025-02-04,UPI,Multan,4.6
+O1420,C220,Other,26,P190,Books,4,2714.62,2024-08-30,Debit Card,Rawalpindi,
+O1421,C265,Female,59,P187,Toys,5,2648.69,2024-08-12,Debit Card,Quetta,
+O1422,C69,Other,41,P200,Books,4,2035.15,2025-07-12,UPI,Karachi,2.4
+O1423,C154,Other,20,P150,Home,3,1391.29,2025-01-25,Debit Card,Rawalpindi,2.8
+O1424,C19,Other,53,P183,Electronics,4,4790.74,2025-03-15,Credit Card,Quetta,1.1
+O1425,C41,Female,33,P139,Electronics,1,2021.07,2025-03-15,UPI,Rawalpindi,1.8
+O1426,C259,Other,35,P131,Toys,1,1861.41,2025-03-08,Cash on Delivery,Quetta,3.6
+O1427,C139,Other,48,P112,Fashion,2,2203.87,2025-04-18,Debit Card,Lahore,4.6
+O1428,C7,Other,45,P165,Books,3,3890.81,2025-04-02,UPI,Quetta,2.2
+O1429,C42,Female,30,P176,Toys,4,2874.72,2024-11-28,Wallet,Islamabad,4.2
+O1430,C226,Female,41,P167,Toys,3,4852.15,2024-09-19,Credit Card,Karachi,2.3
+O1431,C112,Other,59,P125,Sports,4,3846.51,2024-11-18,Wallet,Islamabad,2.5
+O1432,C243,Other,55,P187,Fashion,1,3394.87,2025-01-22,Cash on Delivery,Lahore,1.1
+O1433,C148,Female,60,P166,Toys,2,2270.41,2024-12-29,Wallet,Quetta,
+O1434,C81,Female,52,P183,Sports,4,4092.48,2024-07-19,Debit Card,Karachi,
+O1435,C175,Female,40,P132,Fashion,2,4827.79,2025-04-02,Cash on Delivery,Lahore,1.3
+O1436,C57,Male,27,P112,Home,4,4271.74,2024-10-06,Cash on Delivery,Islamabad,1.1
+O1437,C226,Male,56,P103,Beauty,3,2200.0,2025-04-27,UPI,Multan,4.8
+O1438,C129,Other,19,P132,Beauty,3,4448.97,2025-03-23,UPI,Karachi,
+O1439,C132,Other,56,P120,Fashion,1,3914.41,2025-06-01,Credit Card,Lahore,1.4
+O1440,C254,Other,39,P182,Sports,3,2926.71,2025-05-26,Wallet,Peshawar,1.7
+O1441,C186,Male,57,P100,Fashion,3,4515.28,2025-03-30,Cash on Delivery,Quetta,2.0
+O1442,C47,Other,49,P107,Beauty,4,2935.53,2024-11-04,Debit Card,Karachi,
+O1443,C138,Male,59,P175,Electronics,1,2360.04,2024-10-31,UPI,Islamabad,3.6
+O1444,C233,Female,21,P154,Home,2,3944.49,2024-08-02,Cash on Delivery,Quetta,3.1
+O1445,C262,Female,39,P183,Toys,2,2178.94,2025-03-08,Credit Card,Quetta,3.5
+O1446,C212,Male,33,P195,Sports,1,4293.23,2025-04-26,Cash on Delivery,Quetta,3.5
+O1447,C83,Female,58,P160,Sports,5,4435.48,2025-01-15,Wallet,Islamabad,
+O1448,C271,Female,24,P132,Electronics,4,2169.2,2025-02-07,Debit Card,Islamabad,
+O1449,C262,Male,19,P139,Toys,3,2956.26,2025-04-29,Debit Card,Peshawar,3.6
+O1450,C188,Female,29,P126,Books,1,3696.9,2025-07-05,UPI,Rawalpindi,5.0
+O1451,C159,Other,58,P111,Fashion,4,1047.97,2025-01-14,Credit Card,Multan,2.2
+O1452,C109,Other,52,P131,Books,1,2098.11,2024-12-27,Cash on Delivery,Multan,
+O1453,C159,Other,33,P198,Home,5,4008.19,2024-10-06,Wallet,Multan,2.0
+O1454,C52,Female,21,P154,Toys,3,4120.17,2025-04-21,Credit Card,Peshawar,4.3
+O1455,C258,Male,26,P180,Electronics,4,2438.56,2024-12-16,Cash on Delivery,Multan,3.2
+O1456,C139,Other,46,P122,Books,4,4040.56,2024-11-02,Cash on Delivery,Lahore,3.6
+O1457,C240,Female,19,P199,Beauty,1,1128.84,2024-07-30,Debit Card,Quetta,4.0
+O1458,C142,Male,30,P106,Electronics,3,1119.8,2025-03-21,Cash on Delivery,Lahore,3.2
+O1459,C249,Other,38,P151,Electronics,5,1653.53,2025-06-16,Wallet,Lahore,1.6
+O1460,C274,Male,28,P200,Fashion,1,4164.54,2024-12-08,Wallet,Quetta,
+O1461,C182,Other,50,P178,Beauty,5,3747.2,2025-04-14,UPI,Karachi,4.7
+O1462,C66,Female,60,P133,Toys,3,920.69,2025-01-03,Credit Card,Multan,3.6
+O1463,C184,Male,26,P133,Books,5,1530.14,2025-01-19,Credit Card,Peshawar,4.8
+O1464,C204,Other,49,P176,Toys,3,3680.15,2025-03-08,Cash on Delivery,Multan,
+O1465,C273,Male,53,P145,Books,4,795.08,2025-06-17,UPI,Karachi,1.5
+O1466,C63,Other,23,P134,Toys,3,3785.98,2024-12-06,Wallet,Rawalpindi,3.8
+O1467,C107,Other,45,P189,Home,3,2434.97,2024-09-27,Credit Card,Peshawar,
+O1468,C194,Male,23,P173,Toys,3,2726.06,2025-01-14,Credit Card,Quetta,4.6
+O1469,C62,Female,19,P195,Toys,1,2848.15,2025-04-03,Debit Card,Multan,3.9
+O1470,C137,Female,28,P109,Books,4,2759.71,2025-03-08,Debit Card,Islamabad,
+O1471,C255,Male,25,P106,Beauty,3,3967.82,2024-11-05,UPI,Multan,2.4
+O1472,C58,Female,55,P112,Home,5,1679.4,2024-08-25,Debit Card,Multan,
+O1473,C110,Female,25,P187,Books,4,3272.08,2024-11-09,Debit Card,Lahore,2.4
+O1474,C20,Female,58,P113,Sports,3,1214.98,2024-08-01,Credit Card,Rawalpindi,
+O1475,C32,Female,43,P188,Home,3,2134.16,2024-09-17,Debit Card,Karachi,1.7
+O1476,C194,Other,59,P145,Books,5,1185.87,2024-11-20,UPI,Karachi,4.0
+O1477,C39,Other,53,P194,Books,1,1024.55,2025-06-28,Cash on Delivery,Karachi,
+O1478,C52,Female,25,P112,Home,2,3205.79,2025-01-03,Cash on Delivery,Rawalpindi,2.8
+O1479,C289,Other,57,P168,Home,4,4020.58,2025-06-01,Wallet,Karachi,1.4
+O1480,C180,Female,29,P122,Electronics,4,3815.65,2025-06-01,Credit Card,Karachi,3.4
+O1481,C57,Other,20,P109,Beauty,1,2723.37,2025-04-07,Wallet,Quetta,1.1
+O1482,C214,Other,48,P194,Fashion,4,3113.56,2024-07-19,UPI,Peshawar,2.4
+O1483,C274,Other,57,P140,Toys,5,2395.74,2025-01-27,Debit Card,Lahore,3.9
+O1484,C214,Female,58,P188,Home,5,2585.6,2024-10-22,Wallet,Lahore,1.7
+O1485,C247,Female,20,P128,Beauty,4,2126.66,2025-05-26,Cash on Delivery,Rawalpindi,1.9
+O1486,C151,Male,48,P114,Electronics,1,1155.59,2024-08-19,Credit Card,Rawalpindi,3.7
+O1487,C67,Other,57,P141,Beauty,4,1252.22,2025-07-05,Credit Card,Rawalpindi,1.8
+O1488,C31,Male,25,P200,Books,2,1651.3,2024-12-14,Debit Card,Quetta,2.4
+O1489,C10,Male,57,P124,Electronics,1,4139.02,2024-08-21,UPI,Quetta,
+O1490,C110,Male,30,P141,Home,4,4720.17,2025-05-22,Credit Card,Multan,3.0
+O1491,C279,Other,22,P146,Toys,1,4286.0,2024-12-07,Debit Card,Quetta,2.3
+O1492,C221,Male,39,P185,Beauty,3,3482.7,2024-10-01,UPI,Peshawar,4.3
+O1493,C262,Other,56,P142,Fashion,4,4517.5,2024-10-16,UPI,Lahore,
+O1494,C266,Other,21,P158,Fashion,1,603.98,2024-07-28,Wallet,Lahore,4.9
+O1495,C194,Female,32,P114,Fashion,2,3810.29,2025-04-21,Credit Card,Peshawar,4.2
+O1496,C61,Male,32,P148,Electronics,5,1422.2,2024-08-05,Credit Card,Islamabad,3.0
+O1497,C184,Male,53,P190,Electronics,1,2568.05,2025-05-13,UPI,Islamabad,
+O1498,C192,Other,33,P164,Home,3,3094.8,2025-06-29,Credit Card,Islamabad,4.5
+O1499,C256,Male,48,P142,Electronics,4,1704.88,2024-11-10,Credit Card,Rawalpindi,
+O1500,C50,Male,57,P199,Fashion,3,3370.72,2025-03-15,Wallet,Peshawar,4.9
+O1501,C88,Male,37,P131,Electronics,4,2779.57,2025-03-18,Cash on Delivery,Rawalpindi,4.3
+O1502,C295,Other,48,P183,Books,2,4349.28,2025-03-04,Debit Card,Multan,
+O1503,C258,Male,20,P130,Electronics,4,2570.17,2024-12-08,Wallet,Rawalpindi,1.1
+O1504,C280,Male,23,P149,Beauty,3,4954.01,2025-07-01,Wallet,Multan,2.7
+O1505,C299,Male,25,P152,Books,2,4142.74,2024-10-29,Wallet,Lahore,2.7
+O1506,C287,Female,34,P116,Home,5,2403.75,2024-09-14,Wallet,Multan,1.8
+O1507,C50,Female,60,P124,Electronics,5,3015.28,2025-05-18,Wallet,Peshawar,4.7
+O1508,C165,Other,52,P118,Sports,3,1670.66,2024-11-29,Debit Card,Rawalpindi,2.0
+O1509,C63,Male,25,P133,Fashion,1,3094.02,2025-07-02,Credit Card,Quetta,
+O1510,C256,Other,27,P171,Books,1,3734.63,2025-01-29,UPI,Multan,2.7
+O1511,C169,Female,55,P177,Books,4,4974.26,2024-11-08,UPI,Lahore,1.6
+O1512,C213,Female,20,P176,Beauty,4,3465.24,2024-09-02,UPI,Multan,
+O1513,C261,Other,27,P200,Beauty,2,646.57,2025-04-08,Cash on Delivery,Karachi,
+O1514,C226,Male,38,P152,Toys,1,1582.99,2025-04-17,UPI,Peshawar,3.1
+O1515,C192,Female,18,P195,Sports,5,1059.23,2025-01-29,Wallet,Rawalpindi,3.8
+O1516,C192,Female,48,P196,Sports,1,3549.98,2025-04-13,Cash on Delivery,Karachi,
+O1517,C127,Male,57,P192,Beauty,4,1290.98,2025-03-16,Wallet,Islamabad,
+O1518,C155,Other,43,P144,Electronics,1,3244.94,2025-02-11,UPI,Multan,1.7
+O1519,C111,Other,58,P143,Home,3,901.49,2024-07-20,Debit Card,Multan,2.9
+O1520,C12,Other,36,P189,Toys,2,4456.68,2025-06-05,UPI,Karachi,1.6
+O1521,C156,Other,43,P166,Home,4,1682.14,2024-11-04,Debit Card,Lahore,
+O1522,C198,Female,28,P107,Sports,5,4398.13,2025-06-30,UPI,Lahore,2.7
+O1523,C268,Male,43,P109,Books,3,3973.18,2025-07-01,Credit Card,Peshawar,1.6
+O1524,C31,Other,49,P146,Home,3,2159.57,2025-05-07,Wallet,Multan,4.8
+O1525,C184,Other,24,P169,Books,1,3530.21,2025-02-27,UPI,Peshawar,3.8
+O1526,C82,Female,37,P171,Fashion,4,787.49,2024-10-15,Cash on Delivery,Peshawar,3.3
+O1527,C116,Male,52,P189,Electronics,5,3493.64,2025-01-04,Cash on Delivery,Karachi,4.9
+O1528,C256,Female,20,P199,Fashion,3,3680.3,2025-03-25,UPI,Quetta,
+O1529,C209,Female,23,P124,Fashion,4,1625.32,2025-01-08,Wallet,Lahore,3.6
+O1530,C36,Male,21,P146,Sports,3,769.12,2025-02-04,Cash on Delivery,Rawalpindi,2.2
+O1531,C205,Male,52,P121,Electronics,5,1172.97,2025-01-11,Cash on Delivery,Rawalpindi,1.9
+O1532,C1,Other,53,P129,Books,4,937.3,2025-04-26,Wallet,Islamabad,3.8
+O1533,C295,Female,19,P116,Books,3,1668.3,2025-04-16,Credit Card,Karachi,1.0
+O1534,C121,Female,53,P186,Beauty,2,3979.79,2024-10-31,Wallet,Rawalpindi,1.1
+O1535,C200,Other,35,P126,Fashion,3,501.02,2024-12-22,Credit Card,Karachi,
+O1536,C107,Other,42,P107,Electronics,1,2734.94,2024-10-30,Wallet,Multan,3.4
+O1537,C293,Female,60,P175,Beauty,5,1768.9,2025-04-08,UPI,Karachi,4.4
+O1538,C47,Other,28,P199,Home,3,2925.05,2025-03-08,UPI,Lahore,2.2
+O1539,C36,Male,52,P186,Beauty,2,1596.45,2025-06-21,UPI,Lahore,2.4
+O1540,C126,Male,43,P109,Books,1,1464.11,2024-09-17,UPI,Karachi,
+O1541,C210,Female,51,P104,Beauty,4,1865.93,2025-04-02,UPI,Karachi,5.0
+O1542,C138,Male,34,P150,Fashion,1,1636.83,2025-04-22,UPI,Karachi,4.5
+O1543,C37,Female,24,P140,Fashion,5,3308.2,2025-02-17,UPI,Islamabad,2.7
+O1544,C24,Female,60,P146,Electronics,5,2964.73,2025-01-21,Debit Card,Islamabad,
+O1545,C297,Female,28,P164,Books,1,1102.43,2025-05-05,UPI,Peshawar,4.6
+O1546,C201,Female,49,P193,Beauty,3,2388.63,2025-03-05,Cash on Delivery,Lahore,3.2
+O1547,C188,Other,42,P140,Home,5,2765.07,2025-05-15,Debit Card,Lahore,
+O1548,C192,Male,40,P170,Home,1,995.49,2024-10-22,Cash on Delivery,Peshawar,4.4
+O1549,C267,Female,54,P163,Home,4,2911.49,2025-07-10,UPI,Lahore,
+O1550,C150,Male,20,P175,Home,1,2455.16,2025-05-22,Cash on Delivery,Peshawar,3.2
+O1551,C93,Other,50,P107,Sports,5,1189.42,2024-10-26,UPI,Quetta,
+O1552,C238,Other,33,P184,Books,4,3609.95,2024-08-22,Wallet,Quetta,
+O1553,C232,Female,49,P139,Electronics,2,3069.91,2025-02-20,Wallet,Rawalpindi,
+O1554,C123,Other,30,P104,Books,4,2395.92,2024-12-18,Credit Card,Karachi,4.4
+O1555,C174,Female,42,P163,Electronics,1,997.56,2024-09-29,UPI,Multan,1.6
+O1556,C234,Male,42,P105,Sports,4,3799.21,2024-12-17,Cash on Delivery,Karachi,
+O1557,C17,Female,60,P192,Home,2,4846.09,2024-11-14,Debit Card,Karachi,4.2
+O1558,C245,Female,50,P158,Home,4,2374.08,2024-07-29,Credit Card,Peshawar,2.3
+O1559,C212,Male,45,P119,Electronics,5,4266.99,2025-06-12,Wallet,Islamabad,3.5
+O1560,C50,Other,33,P103,Toys,5,1212.86,2024-11-14,Cash on Delivery,Multan,3.2
+O1561,C265,Other,38,P121,Beauty,2,3311.86,2024-11-13,Wallet,Islamabad,2.5
+O1562,C132,Other,30,P177,Electronics,5,3480.0,2024-08-18,Cash on Delivery,Lahore,4.4
+O1563,C161,Female,46,P176,Home,2,835.61,2025-04-01,Debit Card,Karachi,3.8
+O1564,C163,Other,22,P191,Beauty,3,705.46,2025-03-02,Cash on Delivery,Islamabad,2.6
+O1565,C100,Female,39,P160,Toys,4,4661.91,2025-03-16,UPI,Rawalpindi,1.7
+O1566,C286,Other,28,P119,Electronics,1,2899.62,2024-10-01,UPI,Multan,1.5
+O1567,C198,Female,21,P126,Home,2,3690.54,2025-06-28,Wallet,Rawalpindi,1.8
+O1568,C207,Male,41,P130,Toys,5,4167.62,2024-10-10,UPI,Quetta,2.0
+O1569,C155,Other,51,P176,Electronics,1,1996.68,2025-04-19,Cash on Delivery,Multan,1.7
+O1570,C91,Female,19,P175,Fashion,1,2526.42,2025-04-27,Wallet,Rawalpindi,3.5
+O1571,C66,Female,59,P101,Electronics,1,4848.31,2025-05-30,Credit Card,Islamabad,3.1
+O1572,C42,Male,36,P129,Beauty,5,2532.5,2025-06-19,Cash on Delivery,Multan,4.5
+O1573,C88,Male,41,P165,Beauty,5,3547.62,2025-02-02,Debit Card,Rawalpindi,
+O1574,C287,Female,35,P176,Home,2,1883.79,2024-10-24,Cash on Delivery,Islamabad,3.3
+O1575,C229,Other,25,P151,Sports,4,856.4,2024-08-25,Wallet,Peshawar,
+O1576,C271,Male,51,P195,Home,2,4884.27,2025-04-11,Debit Card,Multan,
+O1577,C175,Female,26,P171,Books,5,4215.13,2025-02-15,Debit Card,Islamabad,
+O1578,C254,Female,37,P101,Home,1,4209.75,2025-04-06,UPI,Karachi,
+O1579,C147,Female,35,P132,Electronics,4,2272.64,2024-10-04,Cash on Delivery,Lahore,3.0
+O1580,C112,Male,33,P188,Home,2,1832.93,2024-09-05,Credit Card,Peshawar,1.5
+O1581,C232,Female,39,P184,Beauty,3,1117.46,2024-11-19,Credit Card,Islamabad,4.8
+O1582,C84,Female,52,P125,Books,1,2571.22,2025-07-12,Wallet,Karachi,2.2
+O1583,C167,Male,35,P108,Sports,2,4660.33,2025-01-08,Debit Card,Multan,
+O1584,C165,Female,27,P157,Beauty,3,2342.08,2025-02-15,Cash on Delivery,Islamabad,2.7
+O1585,C270,Female,56,P145,Fashion,3,4013.9,2024-09-11,Credit Card,Islamabad,4.8
+O1586,C266,Other,24,P170,Fashion,5,4253.16,2025-06-13,Credit Card,Rawalpindi,4.7
+O1587,C96,Female,29,P138,Fashion,3,2428.58,2024-08-14,Debit Card,Rawalpindi,
+O1588,C158,Male,42,P131,Electronics,2,579.72,2024-09-18,Credit Card,Rawalpindi,
+O1589,C30,Male,41,P158,Home,3,3170.12,2024-12-22,Debit Card,Rawalpindi,4.8
+O1590,C19,Male,22,P134,Books,1,2218.52,2025-06-10,Wallet,Islamabad,3.3
+O1591,C30,Male,51,P188,Sports,5,1166.55,2024-11-19,Cash on Delivery,Karachi,2.8
+O1592,C255,Male,34,P142,Toys,3,697.95,2025-03-18,Cash on Delivery,Multan,3.2
+O1593,C265,Female,57,P129,Fashion,2,3045.28,2024-11-20,UPI,Multan,
+O1594,C223,Male,39,P172,Beauty,5,2304.19,2025-03-24,Wallet,Rawalpindi,
+O1595,C237,Male,58,P177,Home,1,1131.44,2025-02-28,Wallet,Multan,3.8
+O1596,C99,Other,44,P135,Electronics,5,4439.77,2024-12-30,UPI,Peshawar,
+O1597,C250,Other,37,P150,Toys,5,1214.4,2025-06-11,Debit Card,Rawalpindi,1.5
+O1598,C137,Male,32,P153,Beauty,2,1441.85,2024-11-12,Debit Card,Karachi,
+O1599,C1,Other,33,P136,Fashion,3,4892.58,2025-06-09,Wallet,Lahore,2.3
+O1600,C40,Male,39,P177,Toys,1,3924.49,2024-09-03,Debit Card,Multan,1.3
+O1601,C21,Male,40,P132,Beauty,2,963.95,2025-06-27,UPI,Peshawar,
+O1602,C193,Female,18,P147,Toys,3,4391.65,2024-11-10,Wallet,Lahore,2.4
+O1603,C226,Female,21,P176,Sports,5,3089.92,2024-12-03,UPI,Quetta,
+O1604,C176,Male,50,P152,Home,4,1871.41,2025-04-10,Cash on Delivery,Quetta,
+O1605,C39,Other,31,P148,Sports,4,1502.74,2025-01-03,Wallet,Rawalpindi,5.0
+O1606,C259,Male,21,P125,Sports,2,826.08,2025-01-30,UPI,Islamabad,4.2
+O1607,C186,Male,20,P183,Electronics,2,3721.66,2024-09-11,UPI,Islamabad,1.8
+O1608,C22,Male,39,P114,Electronics,3,3751.16,2025-02-11,Debit Card,Quetta,2.1
+O1609,C291,Male,37,P118,Toys,1,729.78,2024-11-24,UPI,Multan,1.8
+O1610,C265,Male,38,P124,Books,4,2789.05,2025-04-15,Debit Card,Lahore,
+O1611,C52,Other,59,P106,Books,4,3010.53,2025-03-09,Wallet,Islamabad,3.8
+O1612,C184,Male,47,P182,Electronics,5,1999.1,2025-06-18,UPI,Multan,3.4
+O1613,C196,Female,43,P142,Electronics,3,2726.48,2024-10-24,Cash on Delivery,Quetta,4.6
+O1614,C164,Other,36,P100,Home,5,2031.46,2025-02-06,Debit Card,Lahore,
+O1615,C274,Male,42,P103,Sports,4,2250.54,2025-02-10,Wallet,Rawalpindi,
+O1616,C16,Male,41,P163,Home,5,4232.98,2025-04-14,Credit Card,Quetta,3.6
+O1617,C255,Male,54,P105,Fashion,5,4923.28,2024-11-24,Debit Card,Quetta,
+O1618,C10,Male,37,P164,Sports,4,3243.48,2025-05-04,Cash on Delivery,Karachi,3.1
+O1619,C158,Female,28,P116,Sports,2,2840.21,2024-07-21,Cash on Delivery,Islamabad,4.1
+O1620,C161,Male,38,P117,Books,2,2305.2,2025-06-16,Cash on Delivery,Karachi,3.0
+O1621,C231,Male,39,P179,Toys,4,3038.94,2024-10-04,UPI,Multan,
+O1622,C114,Other,41,P176,Home,5,4822.87,2024-12-24,Credit Card,Lahore,1.9
+O1623,C52,Female,19,P106,Sports,4,3884.96,2025-02-09,Credit Card,Quetta,3.9
+O1624,C12,Other,29,P109,Beauty,2,3076.75,2024-09-18,Cash on Delivery,Islamabad,3.9
+O1625,C53,Male,35,P134,Books,5,4371.12,2024-08-12,Debit Card,Lahore,1.3
+O1626,C52,Other,27,P164,Home,2,4211.6,2025-06-02,Wallet,Lahore,1.0
+O1627,C233,Female,50,P200,Toys,5,866.67,2024-08-06,Debit Card,Rawalpindi,2.1
+O1628,C291,Other,27,P136,Home,3,2747.97,2025-02-02,Debit Card,Lahore,1.1
+O1629,C75,Female,54,P122,Books,5,1987.5,2024-09-27,Credit Card,Peshawar,
+O1630,C184,Other,35,P167,Sports,5,4201.52,2025-03-27,Credit Card,Lahore,2.5
+O1631,C283,Female,47,P147,Books,1,849.91,2024-08-15,Credit Card,Islamabad,3.8
+O1632,C220,Other,47,P159,Toys,5,3346.53,2024-09-26,Wallet,Quetta,
+O1633,C218,Other,42,P159,Books,2,3333.27,2025-02-10,Credit Card,Islamabad,2.6
+O1634,C274,Female,24,P134,Home,2,4820.71,2024-09-02,Cash on Delivery,Multan,3.5
+O1635,C36,Male,20,P171,Home,2,4435.13,2024-08-22,Cash on Delivery,Lahore,
+O1636,C150,Female,25,P102,Toys,1,2032.4,2025-04-20,Credit Card,Lahore,1.3
+O1637,C27,Male,41,P184,Fashion,4,1422.09,2024-10-18,Wallet,Karachi,
+O1638,C203,Other,31,P133,Beauty,4,1485.58,2024-09-25,Wallet,Peshawar,
+O1639,C243,Other,24,P143,Electronics,5,1006.5,2025-05-15,Credit Card,Islamabad,1.6
+O1640,C100,Female,53,P128,Electronics,1,1519.52,2025-04-11,Credit Card,Quetta,4.4
+O1641,C187,Female,23,P137,Electronics,1,1133.26,2024-07-31,Credit Card,Karachi,
+O1642,C191,Male,33,P173,Toys,3,2135.94,2025-03-31,Cash on Delivery,Karachi,4.6
+O1643,C189,Other,27,P157,Fashion,1,3815.2,2025-03-03,Cash on Delivery,Multan,
+O1644,C221,Male,37,P167,Toys,4,3644.31,2024-11-10,Debit Card,Quetta,3.7
+O1645,C83,Other,39,P169,Sports,5,2785.71,2024-11-06,Cash on Delivery,Karachi,
+O1646,C135,Female,33,P165,Sports,1,2739.48,2025-06-01,Cash on Delivery,Karachi,4.3
+O1647,C156,Male,29,P192,Electronics,5,837.07,2024-10-10,Cash on Delivery,Quetta,1.2
+O1648,C6,Female,37,P148,Toys,3,541.18,2025-02-26,Credit Card,Peshawar,4.9
+O1649,C111,Other,43,P123,Beauty,1,4856.58,2025-06-07,Wallet,Rawalpindi,2.3
+O1650,C106,Other,38,P144,Home,5,932.54,2024-09-18,Credit Card,Multan,
+O1651,C200,Other,60,P162,Sports,2,1963.07,2024-09-28,Credit Card,Karachi,1.4
+O1652,C183,Other,25,P191,Home,4,2782.44,2025-04-16,Debit Card,Rawalpindi,3.4
+O1653,C286,Female,18,P107,Books,1,1061.37,2025-04-26,Wallet,Peshawar,4.9
+O1654,C90,Female,55,P141,Beauty,3,679.99,2025-03-02,Credit Card,Karachi,3.6
+O1655,C40,Other,30,P180,Sports,4,1331.55,2025-02-17,Wallet,Karachi,
+O1656,C184,Female,43,P107,Home,3,1575.78,2025-06-04,UPI,Lahore,
+O1657,C182,Male,26,P104,Fashion,1,1320.37,2025-02-06,UPI,Multan,
+O1658,C296,Other,20,P178,Fashion,2,1910.62,2025-03-06,UPI,Peshawar,3.3
+O1659,C257,Male,49,P113,Electronics,4,1392.61,2024-09-12,UPI,Peshawar,
+O1660,C73,Female,60,P135,Home,2,4182.47,2024-08-26,Cash on Delivery,Lahore,4.3
+O1661,C300,Female,39,P133,Electronics,3,967.95,2024-09-20,UPI,Islamabad,1.6
+O1662,C78,Female,39,P152,Fashion,1,4799.48,2024-08-28,Credit Card,Rawalpindi,3.2
+O1663,C231,Female,18,P151,Home,3,4304.72,2025-07-09,Debit Card,Karachi,4.2
+O1664,C22,Female,49,P188,Electronics,3,4601.17,2024-08-27,Credit Card,Islamabad,4.0
+O1665,C235,Female,55,P125,Sports,3,1363.59,2025-06-01,Cash on Delivery,Lahore,4.3
+O1666,C175,Male,57,P132,Beauty,3,4058.87,2025-04-29,Wallet,Islamabad,3.4
+O1667,C12,Male,59,P112,Toys,2,4173.37,2025-06-02,Cash on Delivery,Lahore,1.1
+O1668,C10,Male,31,P143,Beauty,5,515.03,2025-03-27,UPI,Quetta,2.9
+O1669,C162,Female,55,P164,Electronics,5,4972.29,2024-11-02,UPI,Karachi,4.8
+O1670,C211,Male,42,P185,Books,1,2452.91,2025-04-23,Debit Card,Rawalpindi,1.2
+O1671,C3,Female,60,P151,Books,2,2965.9,2024-10-29,Cash on Delivery,Lahore,4.0
+O1672,C285,Male,38,P136,Home,3,2214.41,2024-10-26,Debit Card,Peshawar,
+O1673,C236,Other,31,P147,Fashion,2,2917.51,2024-08-11,UPI,Islamabad,3.1
+O1674,C23,Male,46,P154,Sports,2,2870.41,2025-07-08,Wallet,Karachi,2.1
+O1675,C41,Other,22,P131,Home,2,3333.52,2024-09-02,Cash on Delivery,Rawalpindi,2.6
+O1676,C163,Female,47,P154,Books,4,4344.5,2024-08-04,Credit Card,Karachi,4.5
+O1677,C113,Male,19,P177,Toys,2,4765.7,2024-10-11,Debit Card,Multan,
+O1678,C174,Male,23,P130,Books,1,1711.24,2024-09-30,Credit Card,Multan,
+O1679,C264,Male,40,P111,Books,5,1047.51,2024-11-18,UPI,Multan,3.3
+O1680,C279,Other,47,P165,Beauty,3,3125.92,2024-10-12,UPI,Multan,1.0
+O1681,C19,Female,32,P180,Electronics,2,1441.56,2025-05-20,Debit Card,Rawalpindi,
+O1682,C183,Other,47,P107,Sports,1,1865.07,2024-12-27,Debit Card,Islamabad,1.1
+O1683,C273,Female,37,P142,Toys,1,4276.56,2025-03-01,Credit Card,Quetta,3.5
+O1684,C176,Other,28,P121,Sports,4,4926.2,2025-05-26,Debit Card,Quetta,4.5
+O1685,C32,Male,38,P149,Toys,3,3082.84,2024-08-06,Wallet,Lahore,1.3
+O1686,C102,Male,45,P146,Electronics,2,2020.26,2024-08-28,Debit Card,Lahore,2.7
+O1687,C261,Other,48,P107,Toys,4,3015.28,2024-12-01,Cash on Delivery,Peshawar,
+O1688,C70,Other,48,P139,Electronics,4,1665.43,2024-11-10,Cash on Delivery,Multan,3.8
+O1689,C17,Male,28,P163,Fashion,1,1152.04,2025-03-09,Debit Card,Karachi,2.6
+O1690,C136,Other,25,P148,Home,4,4743.52,2024-07-25,Wallet,Karachi,4.5
+O1691,C105,Male,29,P199,Electronics,2,563.05,2025-04-02,Cash on Delivery,Quetta,4.2
+O1692,C153,Male,53,P108,Toys,3,3379.57,2024-09-22,Debit Card,Rawalpindi,
+O1693,C252,Male,27,P140,Beauty,3,3809.56,2025-01-27,Credit Card,Karachi,3.4
+O1694,C91,Other,34,P138,Books,2,3009.53,2025-06-15,UPI,Quetta,
+O1695,C149,Female,24,P134,Sports,1,3925.3,2025-01-05,Credit Card,Rawalpindi,2.0
+O1696,C46,Female,18,P187,Fashion,4,4820.85,2025-04-28,Cash on Delivery,Multan,4.6
+O1697,C13,Other,42,P109,Beauty,3,657.55,2025-02-13,Cash on Delivery,Peshawar,1.5
+O1698,C92,Other,34,P155,Books,4,2498.2,2024-10-19,Wallet,Karachi,
+O1699,C151,Other,46,P131,Home,3,1951.45,2024-08-12,Credit Card,Lahore,
+O1700,C245,Female,29,P157,Home,4,1612.72,2025-03-28,Credit Card,Rawalpindi,
+O1701,C164,Male,23,P182,Sports,4,1247.53,2024-11-13,UPI,Quetta,4.0
+O1702,C75,Other,29,P190,Home,1,3464.72,2025-05-30,Debit Card,Islamabad,3.1
+O1703,C38,Other,60,P114,Fashion,2,2875.06,2025-05-06,Wallet,Karachi,
+O1704,C238,Male,45,P179,Home,2,964.36,2024-08-17,Cash on Delivery,Peshawar,3.8
+O1705,C90,Male,50,P179,Electronics,3,1393.25,2025-01-30,Cash on Delivery,Peshawar,1.0
+O1706,C121,Other,31,P163,Toys,4,4653.43,2025-05-02,Wallet,Multan,3.5
+O1707,C41,Male,37,P142,Home,2,2588.79,2024-10-29,Credit Card,Peshawar,2.3
+O1708,C88,Female,21,P105,Home,2,562.37,2025-05-12,Cash on Delivery,Peshawar,4.1
+O1709,C34,Male,38,P137,Fashion,5,707.95,2025-02-10,Credit Card,Lahore,2.3
+O1710,C46,Female,55,P194,Fashion,3,2912.87,2025-07-15,UPI,Peshawar,
+O1711,C252,Female,54,P166,Fashion,4,3630.92,2024-08-26,Cash on Delivery,Karachi,4.4
+O1712,C23,Male,40,P164,Books,4,832.01,2025-06-15,Wallet,Rawalpindi,2.0
+O1713,C39,Other,49,P182,Beauty,4,1760.3,2025-02-01,UPI,Peshawar,
+O1714,C89,Other,32,P143,Sports,2,3278.07,2025-01-23,Wallet,Karachi,4.8
+O1715,C28,Female,49,P135,Beauty,5,4894.43,2025-04-04,Debit Card,Islamabad,4.4
+O1716,C225,Other,29,P139,Electronics,3,3006.51,2025-07-02,Credit Card,Rawalpindi,
+O1717,C238,Female,35,P111,Electronics,2,826.05,2025-05-30,Cash on Delivery,Lahore,3.5
+O1718,C195,Other,28,P134,Fashion,1,1394.95,2024-09-24,Credit Card,Lahore,4.5
+O1719,C96,Other,19,P151,Beauty,4,1261.77,2025-03-28,Credit Card,Multan,3.2
+O1720,C125,Male,57,P151,Beauty,2,1980.01,2024-10-06,Wallet,Karachi,
+O1721,C22,Other,42,P163,Electronics,1,1501.99,2024-08-02,Debit Card,Rawalpindi,2.1
+O1722,C26,Female,28,P164,Toys,1,937.17,2024-09-21,Debit Card,Lahore,1.4
+O1723,C72,Other,47,P194,Electronics,4,3146.95,2024-11-13,Cash on Delivery,Lahore,3.1
+O1724,C258,Other,21,P179,Beauty,1,4586.82,2025-04-28,Credit Card,Multan,3.3
+O1725,C84,Male,39,P148,Sports,2,4217.32,2025-05-14,Wallet,Karachi,2.5
+O1726,C176,Female,37,P153,Electronics,5,1555.67,2025-02-11,Credit Card,Rawalpindi,1.1
+O1727,C159,Female,28,P101,Fashion,3,1688.96,2025-05-13,Credit Card,Peshawar,
+O1728,C283,Male,46,P155,Beauty,2,4834.28,2024-08-14,Debit Card,Islamabad,4.9
+O1729,C155,Male,36,P113,Toys,4,777.77,2024-10-14,Wallet,Lahore,3.1
+O1730,C231,Other,57,P190,Fashion,1,4870.43,2025-01-01,Debit Card,Peshawar,
+O1731,C45,Other,27,P110,Toys,2,3019.86,2025-01-29,UPI,Islamabad,2.7
+O1732,C2,Female,37,P159,Sports,3,4418.54,2025-02-17,Credit Card,Peshawar,4.4
+O1733,C251,Other,41,P197,Sports,4,3109.81,2025-05-05,Cash on Delivery,Rawalpindi,3.8
+O1734,C225,Other,28,P162,Fashion,1,4769.72,2025-01-13,Credit Card,Islamabad,4.9
+O1735,C133,Female,54,P174,Home,5,4255.31,2024-11-29,Credit Card,Islamabad,1.2
+O1736,C238,Female,52,P143,Beauty,1,1133.07,2024-08-19,Cash on Delivery,Rawalpindi,2.0
+O1737,C158,Female,50,P113,Beauty,5,4907.44,2025-07-05,UPI,Rawalpindi,1.8
+O1738,C139,Male,22,P189,Fashion,4,1213.66,2025-02-23,Wallet,Rawalpindi,3.1
+O1739,C166,Male,33,P191,Electronics,4,940.03,2025-01-10,Cash on Delivery,Rawalpindi,4.8
+O1740,C233,Other,21,P104,Beauty,3,2653.74,2025-04-03,Wallet,Islamabad,2.9
+O1741,C263,Male,19,P170,Fashion,1,4638.6,2025-05-21,Credit Card,Rawalpindi,2.8
+O1742,C147,Other,34,P185,Sports,4,1669.6,2024-08-28,Cash on Delivery,Karachi,1.6
+O1743,C60,Male,27,P161,Electronics,2,3487.04,2025-02-25,Wallet,Karachi,2.2
+O1744,C288,Other,41,P187,Beauty,1,4563.74,2024-09-23,Wallet,Peshawar,1.9
+O1745,C192,Male,27,P147,Toys,1,546.0,2025-05-17,Credit Card,Rawalpindi,1.2
+O1746,C60,Other,46,P164,Toys,1,978.63,2024-10-12,UPI,Karachi,
+O1747,C209,Other,23,P157,Books,2,4453.22,2024-08-14,Credit Card,Quetta,
+O1748,C287,Female,18,P184,Electronics,3,1410.4,2025-02-17,Wallet,Lahore,4.8
+O1749,C118,Female,52,P139,Toys,5,3138.02,2025-06-07,UPI,Peshawar,4.2
+O1750,C203,Male,43,P140,Fashion,5,2081.68,2025-01-23,Credit Card,Multan,1.2
+O1751,C73,Female,36,P157,Fashion,3,3590.65,2024-08-30,UPI,Lahore,
+O1752,C251,Female,19,P189,Home,4,3752.09,2025-06-29,Wallet,Multan,3.7
+O1753,C83,Female,52,P198,Home,2,2607.11,2024-09-12,UPI,Peshawar,4.2
+O1754,C164,Female,26,P195,Sports,3,763.23,2024-08-20,Credit Card,Peshawar,4.8
+O1755,C135,Female,60,P182,Fashion,4,3387.27,2025-04-19,Cash on Delivery,Rawalpindi,4.2
+O1756,C161,Other,55,P116,Beauty,1,1669.11,2025-02-01,Wallet,Quetta,2.9
+O1757,C278,Male,18,P150,Sports,3,4037.24,2024-10-07,Credit Card,Islamabad,2.7
+O1758,C293,Female,35,P198,Home,3,4776.71,2025-03-19,Credit Card,Lahore,4.7
+O1759,C111,Male,27,P112,Fashion,4,2183.97,2025-01-19,Credit Card,Karachi,3.6
+O1760,C67,Female,33,P133,Electronics,2,1709.57,2024-09-04,Cash on Delivery,Peshawar,5.0
+O1761,C239,Other,26,P120,Home,4,4942.86,2025-03-11,Credit Card,Lahore,4.2
+O1762,C209,Female,55,P196,Books,1,1533.11,2024-12-29,Debit Card,Quetta,2.8
+O1763,C226,Male,18,P141,Fashion,5,2214.05,2025-05-08,Debit Card,Lahore,3.3
+O1764,C75,Male,31,P177,Toys,5,4234.6,2024-12-10,Credit Card,Quetta,1.2
+O1765,C38,Female,22,P127,Toys,4,2163.02,2025-06-05,UPI,Karachi,
+O1766,C169,Other,41,P185,Home,3,3880.93,2025-02-16,Wallet,Quetta,
+O1767,C290,Other,43,P164,Books,2,1949.0,2024-08-27,Debit Card,Rawalpindi,1.3
+O1768,C24,Other,41,P149,Fashion,5,3157.44,2024-10-28,UPI,Quetta,
+O1769,C156,Other,23,P176,Toys,2,2227.02,2024-08-06,Cash on Delivery,Peshawar,4.9
+O1770,C161,Female,20,P104,Fashion,3,4856.96,2025-06-28,UPI,Multan,3.8
+O1771,C39,Female,36,P186,Sports,2,1114.43,2024-12-02,Wallet,Karachi,4.9
+O1772,C237,Female,23,P127,Sports,5,666.74,2024-09-14,UPI,Quetta,3.8
+O1773,C193,Other,32,P173,Beauty,5,1176.67,2024-10-13,Credit Card,Peshawar,
+O1774,C91,Male,32,P131,Beauty,2,749.45,2025-04-21,Debit Card,Quetta,3.0
+O1775,C225,Male,51,P122,Electronics,5,3936.76,2024-10-20,UPI,Quetta,
+O1776,C241,Male,20,P123,Sports,5,1099.72,2024-11-13,Credit Card,Multan,3.3
+O1777,C216,Male,36,P145,Toys,5,1868.84,2024-08-24,Credit Card,Karachi,
+O1778,C198,Other,46,P152,Sports,5,4025.42,2025-04-22,UPI,Quetta,2.7
+O1779,C198,Other,26,P177,Fashion,2,2156.3,2024-11-24,Credit Card,Lahore,1.9
+O1780,C103,Male,23,P145,Books,3,4203.16,2025-05-28,Wallet,Islamabad,
+O1781,C171,Male,31,P128,Home,4,2156.39,2024-11-14,Cash on Delivery,Multan,2.7
+O1782,C281,Male,59,P150,Sports,2,4554.71,2025-06-15,Wallet,Rawalpindi,1.1
+O1783,C168,Female,42,P133,Home,4,2354.28,2024-12-08,Credit Card,Multan,2.3
+O1784,C129,Other,29,P179,Fashion,2,1021.85,2024-10-24,Cash on Delivery,Karachi,1.1
+O1785,C109,Male,32,P173,Toys,5,2357.35,2024-10-24,Cash on Delivery,Multan,4.0
+O1786,C154,Female,42,P142,Fashion,5,2571.81,2024-10-14,UPI,Lahore,1.2
+O1787,C130,Male,38,P109,Toys,4,665.77,2025-05-10,Credit Card,Rawalpindi,
+O1788,C100,Male,56,P188,Books,5,4337.45,2025-05-31,UPI,Peshawar,2.5
+O1789,C29,Female,51,P192,Books,5,2170.12,2025-04-23,Wallet,Rawalpindi,
+O1790,C154,Other,53,P197,Toys,3,4392.68,2025-03-22,Wallet,Lahore,3.4
+O1791,C174,Female,22,P160,Electronics,2,3466.18,2024-08-24,Wallet,Rawalpindi,2.9
+O1792,C206,Female,53,P180,Books,1,2683.07,2025-03-25,Credit Card,Quetta,
+O1793,C287,Female,20,P190,Fashion,3,2626.97,2024-11-21,Credit Card,Quetta,3.2
+O1794,C89,Other,23,P173,Beauty,1,791.29,2024-09-13,UPI,Karachi,2.8
+O1795,C275,Other,35,P144,Electronics,5,4372.48,2024-10-19,Wallet,Multan,1.2
+O1796,C8,Other,60,P169,Fashion,2,3578.72,2025-05-28,Debit Card,Karachi,
+O1797,C137,Female,19,P181,Electronics,2,4005.01,2025-07-12,UPI,Karachi,
+O1798,C292,Male,52,P191,Books,1,2769.69,2025-02-04,Wallet,Rawalpindi,
+O1799,C46,Other,56,P151,Toys,4,4135.51,2025-01-25,Debit Card,Lahore,4.5
+O1800,C59,Female,58,P155,Electronics,3,924.95,2025-01-10,Wallet,Karachi,4.1
+O1801,C133,Male,18,P163,Beauty,1,1898.76,2025-02-27,Credit Card,Quetta,2.1
+O1802,C151,Other,54,P174,Fashion,4,649.47,2024-11-03,UPI,Islamabad,
+O1803,C3,Female,27,P114,Books,2,640.52,2025-04-16,UPI,Lahore,1.8
+O1804,C232,Other,47,P171,Books,4,1168.48,2024-11-04,Credit Card,Lahore,
+O1805,C125,Female,29,P189,Books,5,811.75,2024-12-06,Cash on Delivery,Lahore,1.1
+O1806,C103,Other,58,P162,Electronics,1,1208.45,2025-02-07,Debit Card,Karachi,4.2
+O1807,C154,Other,30,P184,Toys,3,3680.96,2025-02-23,Credit Card,Islamabad,4.6
+O1808,C110,Other,59,P123,Toys,5,1408.97,2024-10-01,Wallet,Multan,
+O1809,C120,Other,33,P126,Beauty,5,4708.18,2025-05-19,UPI,Karachi,
+O1810,C176,Other,23,P190,Toys,1,3070.06,2024-11-19,Debit Card,Quetta,3.5
+O1811,C161,Male,54,P114,Fashion,3,1768.34,2025-03-26,Cash on Delivery,Quetta,
+O1812,C64,Male,56,P116,Books,4,2410.09,2025-04-30,Debit Card,Multan,2.3
+O1813,C91,Male,40,P106,Home,3,1968.16,2024-12-11,Cash on Delivery,Peshawar,
+O1814,C179,Male,50,P104,Sports,1,3468.61,2024-08-04,Wallet,Multan,2.6
+O1815,C229,Female,21,P170,Sports,4,4511.13,2024-08-24,Cash on Delivery,Multan,3.8
+O1816,C262,Male,53,P149,Toys,5,4770.24,2024-10-16,UPI,Quetta,1.3
+O1817,C39,Male,35,P177,Fashion,4,1549.67,2024-11-08,Debit Card,Karachi,1.4
+O1818,C282,Female,39,P198,Sports,4,1037.35,2024-08-22,Wallet,Peshawar,1.2
+O1819,C69,Male,38,P131,Toys,2,4304.64,2025-02-15,UPI,Islamabad,1.5
+O1820,C276,Male,59,P194,Toys,4,4277.0,2024-09-01,UPI,Islamabad,
+O1821,C119,Other,31,P191,Books,3,2745.38,2024-09-27,Wallet,Quetta,1.4
+O1822,C193,Female,34,P170,Sports,5,3209.29,2024-12-04,Debit Card,Karachi,
+O1823,C56,Other,45,P179,Sports,3,632.39,2025-04-15,Cash on Delivery,Rawalpindi,
+O1824,C176,Female,59,P110,Books,1,3176.39,2025-06-22,UPI,Lahore,
+O1825,C3,Other,51,P147,Toys,2,1605.75,2024-11-13,Wallet,Lahore,2.2
+O1826,C233,Female,44,P147,Books,3,3979.39,2024-10-04,Cash on Delivery,Karachi,
+O1827,C35,Other,45,P131,Home,5,1884.92,2025-04-28,Debit Card,Quetta,1.6
+O1828,C177,Male,28,P160,Sports,3,867.15,2025-01-28,UPI,Peshawar,2.1
+O1829,C101,Other,26,P161,Beauty,4,2996.02,2025-06-10,UPI,Quetta,
+O1830,C15,Other,31,P115,Toys,1,3710.6,2025-05-03,Debit Card,Islamabad,2.7
+O1831,C248,Male,21,P158,Electronics,3,2439.88,2025-01-20,Credit Card,Karachi,3.9
+O1832,C220,Other,20,P150,Toys,2,4609.29,2024-11-02,Debit Card,Rawalpindi,
+O1833,C247,Male,37,P149,Beauty,4,4744.92,2025-03-09,Wallet,Rawalpindi,3.2
+O1834,C61,Other,47,P149,Home,3,3212.62,2024-07-27,Credit Card,Islamabad,1.8
+O1835,C158,Female,25,P171,Books,2,3244.2,2024-09-02,Wallet,Karachi,2.1
+O1836,C232,Male,47,P124,Sports,5,4447.21,2024-08-05,Credit Card,Lahore,
+O1837,C157,Female,19,P183,Fashion,5,4312.38,2025-02-25,Wallet,Karachi,
+O1838,C169,Male,25,P109,Toys,5,2426.16,2024-11-11,Cash on Delivery,Peshawar,
+O1839,C292,Female,36,P156,Toys,1,2603.35,2024-09-08,Debit Card,Quetta,
+O1840,C60,Male,51,P184,Home,2,1131.46,2025-06-15,Wallet,Karachi,
+O1841,C283,Other,27,P141,Sports,1,2356.65,2024-08-07,Cash on Delivery,Karachi,
+O1842,C238,Female,42,P128,Toys,5,3086.66,2025-06-18,UPI,Karachi,1.9
+O1843,C69,Female,34,P180,Fashion,2,3349.74,2025-03-16,Wallet,Multan,2.9
+O1844,C64,Female,40,P151,Fashion,4,2107.76,2025-06-27,Cash on Delivery,Multan,2.6
+O1845,C176,Other,42,P156,Sports,5,4571.35,2024-12-04,Debit Card,Karachi,5.0
+O1846,C204,Male,40,P165,Fashion,3,1273.29,2025-03-26,Cash on Delivery,Islamabad,
+O1847,C298,Other,21,P187,Beauty,2,3101.33,2024-10-12,Wallet,Rawalpindi,
+O1848,C4,Female,59,P100,Books,3,1636.06,2024-11-02,Debit Card,Quetta,5.0
+O1849,C58,Female,54,P101,Sports,4,4897.48,2025-03-23,Debit Card,Islamabad,2.0
+O1850,C245,Other,35,P132,Electronics,3,2947.1,2024-12-17,Wallet,Quetta,4.9
+O1851,C1,Other,41,P189,Electronics,5,735.69,2024-08-07,Cash on Delivery,Lahore,4.1
+O1852,C300,Other,36,P200,Home,1,695.79,2025-05-30,UPI,Multan,3.8
+O1853,C28,Female,50,P114,Fashion,1,1147.94,2025-05-06,Wallet,Quetta,
+O1854,C36,Male,60,P172,Toys,3,2420.54,2025-01-28,Debit Card,Lahore,3.6
+O1855,C50,Female,23,P161,Sports,1,4105.93,2025-05-15,UPI,Peshawar,1.9
+O1856,C142,Male,36,P192,Books,2,4064.39,2024-07-19,Cash on Delivery,Peshawar,
+O1857,C168,Other,35,P147,Books,2,1719.64,2024-11-18,Credit Card,Multan,2.9
+O1858,C36,Other,40,P103,Toys,3,4038.09,2024-10-23,Debit Card,Islamabad,
+O1859,C174,Other,57,P187,Fashion,2,4526.65,2025-04-14,Wallet,Islamabad,1.0
+O1860,C57,Male,43,P128,Beauty,2,2130.48,2024-07-31,Wallet,Multan,1.2
+O1861,C248,Male,32,P158,Books,1,1248.26,2024-11-08,Debit Card,Islamabad,2.7
+O1862,C69,Female,35,P103,Sports,3,2181.42,2025-06-09,Debit Card,Karachi,4.0
+O1863,C196,Male,48,P166,Electronics,4,3582.18,2024-08-25,Debit Card,Lahore,2.4
+O1864,C190,Male,55,P178,Fashion,5,1698.95,2024-11-24,Wallet,Peshawar,3.8
+O1865,C27,Male,32,P106,Sports,3,1254.37,2024-08-23,Credit Card,Quetta,4.4
+O1866,C10,Female,22,P129,Electronics,3,1334.75,2025-05-09,Cash on Delivery,Karachi,2.5
+O1867,C290,Female,41,P112,Books,4,4606.97,2025-03-02,Wallet,Lahore,2.4
+O1868,C122,Female,27,P132,Home,2,2242.54,2024-09-10,UPI,Peshawar,3.2
+O1869,C178,Other,48,P124,Books,5,537.61,2025-01-04,Debit Card,Lahore,4.0
+O1870,C219,Male,51,P198,Toys,4,1595.55,2025-07-02,Credit Card,Peshawar,1.0
+O1871,C163,Male,41,P110,Sports,5,2917.23,2024-07-20,Debit Card,Islamabad,2.7
+O1872,C228,Male,34,P136,Toys,4,684.62,2025-05-20,UPI,Rawalpindi,2.5
+O1873,C222,Male,43,P140,Fashion,4,4925.37,2024-11-12,Debit Card,Lahore,3.0
+O1874,C38,Other,20,P128,Fashion,5,4903.72,2025-06-27,Wallet,Lahore,
+O1875,C12,Female,42,P140,Books,2,3400.23,2024-08-06,Cash on Delivery,Peshawar,3.4
+O1876,C115,Male,57,P197,Sports,4,4577.16,2024-10-21,Wallet,Multan,2.5
+O1877,C89,Other,38,P147,Sports,5,1296.91,2024-09-05,Credit Card,Lahore,
+O1878,C275,Female,58,P137,Fashion,5,1338.03,2024-11-22,Credit Card,Quetta,
+O1879,C279,Male,49,P113,Books,5,2253.56,2025-05-06,Credit Card,Lahore,1.6
+O1880,C171,Other,59,P172,Electronics,3,4226.11,2025-05-11,Cash on Delivery,Islamabad,3.7
+O1881,C22,Other,21,P166,Books,5,951.91,2025-03-08,Credit Card,Lahore,
+O1882,C97,Female,20,P176,Electronics,1,2487.04,2025-03-22,Debit Card,Islamabad,4.5
+O1883,C167,Female,42,P103,Toys,1,3373.91,2024-10-29,UPI,Quetta,2.1
+O1884,C217,Male,60,P178,Toys,3,3295.43,2025-03-14,Wallet,Lahore,
+O1885,C2,Female,38,P199,Home,5,3489.9,2024-08-23,Cash on Delivery,Islamabad,3.4
+O1886,C192,Female,30,P124,Electronics,3,2273.97,2025-06-08,Debit Card,Peshawar,4.2
+O1887,C172,Other,25,P122,Electronics,3,4911.06,2025-05-27,Debit Card,Quetta,1.6
+O1888,C272,Female,21,P137,Home,5,589.28,2025-01-11,Credit Card,Lahore,
+O1889,C229,Female,52,P109,Fashion,4,2752.04,2024-11-05,Cash on Delivery,Multan,
+O1890,C16,Other,43,P181,Books,1,4872.23,2024-07-28,UPI,Islamabad,4.3
+O1891,C6,Other,51,P145,Fashion,5,3155.58,2025-05-22,Credit Card,Peshawar,3.4
+O1892,C133,Male,53,P176,Fashion,4,585.85,2024-11-30,Cash on Delivery,Multan,4.1
+O1893,C153,Other,47,P148,Fashion,1,2815.63,2025-01-07,Credit Card,Lahore,3.0
+O1894,C218,Female,60,P151,Books,5,1785.71,2024-08-27,Credit Card,Lahore,4.6
+O1895,C70,Female,36,P150,Beauty,4,3908.2,2025-04-21,Wallet,Multan,
+O1896,C217,Other,30,P165,Toys,3,3277.92,2024-12-12,Debit Card,Peshawar,
+O1897,C14,Male,20,P177,Books,5,4961.17,2024-09-27,Credit Card,Multan,
+O1898,C271,Male,51,P162,Sports,2,3450.5,2025-04-02,Debit Card,Multan,3.6
+O1899,C238,Other,48,P148,Home,3,2317.58,2025-05-27,UPI,Lahore,3.6
+O1900,C69,Other,55,P103,Home,3,4552.48,2024-11-18,Debit Card,Multan,3.9
+O1901,C72,Male,30,P128,Sports,5,4771.67,2024-11-26,Cash on Delivery,Quetta,3.5
+O1902,C235,Female,57,P107,Fashion,1,4646.76,2025-07-04,Debit Card,Multan,
+O1903,C114,Female,34,P160,Fashion,4,3682.1,2025-05-28,Debit Card,Rawalpindi,4.9
+O1904,C122,Male,49,P100,Sports,2,2497.15,2025-03-23,UPI,Multan,3.8
+O1905,C51,Male,58,P129,Beauty,3,691.72,2024-12-25,Credit Card,Quetta,
+O1906,C40,Other,37,P136,Toys,2,2774.26,2024-12-20,Wallet,Quetta,2.6
+O1907,C169,Other,21,P167,Books,3,2627.74,2024-09-14,Wallet,Karachi,
+O1908,C182,Male,21,P101,Home,4,1009.25,2025-06-19,Wallet,Quetta,4.2
+O1909,C267,Female,30,P157,Toys,5,3084.54,2024-11-19,UPI,Lahore,3.2
+O1910,C222,Female,40,P198,Books,4,2733.61,2024-12-21,Debit Card,Islamabad,1.2
+O1911,C235,Other,31,P177,Electronics,3,3173.78,2025-02-11,Credit Card,Lahore,1.4
+O1912,C198,Other,47,P124,Toys,5,4796.37,2024-10-20,Credit Card,Islamabad,2.7
+O1913,C58,Male,19,P129,Sports,1,4916.68,2025-05-26,Credit Card,Rawalpindi,1.2
+O1914,C244,Male,52,P169,Books,2,1624.62,2024-12-31,UPI,Islamabad,4.5
+O1915,C265,Male,45,P196,Home,5,2268.01,2024-08-22,Cash on Delivery,Multan,4.9
+O1916,C254,Male,34,P142,Fashion,3,3937.89,2024-10-09,UPI,Lahore,2.9
+O1917,C101,Female,37,P147,Beauty,3,1099.61,2024-08-26,UPI,Rawalpindi,
+O1918,C27,Other,25,P159,Toys,5,3876.14,2025-06-28,Wallet,Karachi,
+O1919,C229,Other,51,P108,Beauty,1,2694.41,2024-12-29,UPI,Islamabad,1.4
+O1920,C184,Other,35,P192,Fashion,1,3611.26,2024-10-10,Cash on Delivery,Quetta,4.3
+O1921,C278,Female,20,P107,Sports,1,2371.82,2025-04-12,Debit Card,Quetta,
+O1922,C249,Other,33,P198,Beauty,2,2382.68,2024-08-11,Wallet,Karachi,
+O1923,C9,Other,20,P162,Fashion,3,2350.67,2024-09-11,Credit Card,Rawalpindi,
+O1924,C56,Male,43,P131,Home,2,1159.53,2025-01-09,UPI,Karachi,2.2
+O1925,C19,Female,20,P161,Home,1,4640.99,2024-10-12,Credit Card,Lahore,2.4
+O1926,C30,Female,23,P126,Toys,3,4538.07,2025-02-13,UPI,Lahore,2.4
+O1927,C86,Female,36,P147,Electronics,4,3476.68,2024-10-11,Cash on Delivery,Peshawar,
+O1928,C149,Male,58,P181,Beauty,2,3952.95,2025-02-01,UPI,Lahore,1.6
+O1929,C92,Male,51,P110,Fashion,4,2390.63,2025-06-18,Cash on Delivery,Karachi,3.1
+O1930,C84,Male,40,P111,Electronics,4,2653.94,2025-01-01,Credit Card,Lahore,1.7
+O1931,C158,Female,55,P112,Sports,3,1452.3,2025-05-03,Credit Card,Islamabad,
+O1932,C164,Female,49,P151,Electronics,3,969.54,2025-05-07,UPI,Quetta,3.4
+O1933,C140,Other,24,P123,Electronics,3,1696.77,2024-10-29,UPI,Quetta,4.5
+O1934,C91,Other,54,P147,Home,2,4191.36,2025-05-16,Debit Card,Lahore,
+O1935,C191,Other,46,P152,Beauty,1,2698.22,2025-01-19,Debit Card,Multan,4.8
+O1936,C2,Female,49,P191,Fashion,2,736.12,2024-09-27,Debit Card,Multan,2.6
+O1937,C161,Female,28,P127,Home,1,3676.47,2024-11-06,Cash on Delivery,Rawalpindi,4.3
+O1938,C6,Other,56,P185,Fashion,5,4055.58,2025-06-05,Credit Card,Islamabad,3.8
+O1939,C232,Male,46,P152,Beauty,1,507.24,2024-11-09,Wallet,Islamabad,4.8
+O1940,C42,Female,31,P176,Books,2,1434.33,2025-02-14,UPI,Rawalpindi,3.3
+O1941,C5,Male,51,P143,Home,3,4055.86,2025-01-05,Wallet,Islamabad,4.8
+O1942,C233,Male,53,P160,Books,4,3301.93,2025-03-23,Debit Card,Multan,2.8
+O1943,C155,Other,55,P185,Books,1,2817.7,2024-08-14,UPI,Multan,
+O1944,C255,Male,53,P195,Books,3,2296.74,2024-11-17,Debit Card,Multan,
+O1945,C269,Male,51,P154,Sports,3,4496.27,2024-07-27,UPI,Peshawar,
+O1946,C263,Male,59,P133,Books,3,3997.47,2024-08-11,UPI,Karachi,1.1
+O1947,C288,Male,59,P100,Fashion,1,2481.83,2024-08-24,Wallet,Lahore,4.1
+O1948,C228,Other,22,P125,Books,1,4292.17,2025-06-07,Debit Card,Rawalpindi,4.5
+O1949,C179,Other,53,P122,Electronics,1,1187.15,2025-07-14,Debit Card,Karachi,
+O1950,C230,Other,19,P186,Sports,3,3122.94,2025-05-18,Wallet,Quetta,
+O1951,C158,Male,51,P144,Sports,1,2378.76,2025-01-01,Debit Card,Rawalpindi,2.8
+O1952,C88,Female,60,P159,Beauty,2,1323.92,2024-11-02,Debit Card,Multan,
+O1953,C276,Male,35,P180,Home,5,2900.64,2025-07-09,UPI,Islamabad,3.0
+O1954,C161,Other,19,P139,Electronics,1,3098.79,2024-09-10,Credit Card,Karachi,2.2
+O1955,C225,Male,48,P188,Beauty,2,1539.0,2025-05-22,UPI,Multan,4.8
+O1956,C205,Male,36,P123,Fashion,4,2952.04,2025-03-28,Credit Card,Lahore,1.6
+O1957,C169,Other,59,P192,Books,1,4448.06,2025-02-13,Credit Card,Multan,
+O1958,C71,Male,45,P101,Fashion,2,1428.58,2025-03-21,Cash on Delivery,Quetta,4.8
+O1959,C268,Other,51,P144,Electronics,5,4896.81,2025-07-16,Debit Card,Lahore,3.6
+O1960,C278,Female,44,P146,Beauty,1,692.57,2025-03-14,UPI,Rawalpindi,
+O1961,C166,Other,49,P135,Books,5,2930.63,2025-03-19,Credit Card,Quetta,2.5
+O1962,C146,Female,54,P139,Toys,2,967.5,2025-01-20,Credit Card,Multan,1.1
+O1963,C168,Male,38,P125,Beauty,3,2612.15,2025-02-10,Wallet,Karachi,1.6
+O1964,C64,Female,25,P138,Sports,1,992.13,2024-09-19,Wallet,Islamabad,3.2
+O1965,C223,Female,45,P156,Toys,5,2993.28,2025-02-23,Cash on Delivery,Lahore,
+O1966,C134,Male,39,P157,Books,1,622.61,2024-12-16,Credit Card,Lahore,3.1
+O1967,C245,Male,34,P151,Sports,4,675.77,2024-08-26,UPI,Islamabad,
+O1968,C215,Female,57,P100,Fashion,2,4809.86,2025-06-13,Cash on Delivery,Islamabad,3.6
+O1969,C262,Female,59,P144,Beauty,4,3921.4,2025-04-21,Cash on Delivery,Islamabad,4.7
+O1970,C123,Female,29,P110,Sports,2,3113.29,2024-11-10,Credit Card,Multan,
+O1971,C157,Female,37,P199,Home,4,3701.82,2024-12-01,Credit Card,Peshawar,3.5
+O1972,C21,Female,49,P153,Sports,3,3349.85,2024-09-13,Wallet,Karachi,1.1
+O1973,C59,Female,39,P122,Fashion,1,2985.89,2025-05-14,UPI,Rawalpindi,2.0
+O1974,C150,Male,60,P142,Books,2,2796.04,2024-09-18,Cash on Delivery,Peshawar,1.1
+O1975,C144,Other,48,P127,Beauty,4,4978.67,2024-09-14,Cash on Delivery,Peshawar,2.9
+O1976,C10,Male,57,P198,Home,3,3090.64,2025-04-04,Credit Card,Lahore,4.3
+O1977,C298,Other,28,P120,Books,3,4347.28,2024-12-08,UPI,Quetta,2.9
+O1978,C117,Male,22,P120,Electronics,3,1300.1,2024-12-12,Cash on Delivery,Multan,
+O1979,C70,Male,51,P200,Books,3,3559.8,2025-02-09,Wallet,Multan,4.0
+O1980,C217,Other,47,P160,Electronics,2,2236.84,2024-09-30,Cash on Delivery,Rawalpindi,
+O1981,C114,Male,23,P193,Toys,5,746.34,2025-04-19,Debit Card,Rawalpindi,2.5
+O1982,C213,Female,20,P126,Toys,4,1692.63,2025-01-16,Debit Card,Rawalpindi,
+O1983,C159,Other,47,P112,Sports,1,3585.71,2024-12-05,Credit Card,Quetta,
+O1984,C205,Female,59,P101,Electronics,3,3908.37,2025-02-28,Credit Card,Rawalpindi,
+O1985,C257,Other,43,P174,Beauty,4,4370.88,2024-09-10,Credit Card,Islamabad,
+O1986,C99,Other,22,P150,Toys,1,2537.48,2025-06-25,Wallet,Peshawar,
+O1987,C231,Male,45,P162,Electronics,4,560.12,2024-11-09,Wallet,Karachi,
+O1988,C117,Female,41,P184,Beauty,4,3658.72,2024-10-13,Cash on Delivery,Lahore,2.9
+O1989,C107,Other,53,P149,Beauty,3,983.02,2025-03-18,Debit Card,Peshawar,
+O1990,C117,Male,32,P136,Sports,1,4784.23,2024-08-24,Credit Card,Islamabad,1.8
+O1991,C86,Other,33,P187,Sports,5,4199.08,2025-06-22,Cash on Delivery,Peshawar,4.9
+O1992,C2,Male,39,P193,Sports,3,777.53,2024-09-02,Wallet,Multan,
+O1993,C293,Female,24,P112,Sports,3,801.85,2024-09-19,Credit Card,Quetta,4.8
+O1994,C107,Other,58,P114,Sports,1,2575.83,2024-09-24,Wallet,Multan,1.3
+O1995,C109,Female,57,P154,Toys,2,3470.42,2025-02-21,Debit Card,Lahore,4.0
+O1996,C139,Male,33,P129,Electronics,2,3288.29,2024-08-04,Wallet,Rawalpindi,2.3
+O1997,C95,Female,44,P171,Beauty,1,3554.53,2025-01-16,Credit Card,Karachi,
+O1998,C84,Male,39,P113,Toys,5,507.79,2025-02-08,Wallet,Quetta,2.8
+O1999,C217,Male,23,P118,Electronics,5,4326.83,2025-04-08,Cash on Delivery,Lahore,3.5
